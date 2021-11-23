@@ -1,5 +1,47 @@
 # 릴리즈 노트
 
+## \[v2.7.2] 2021-11-23
+
+[https://cafe.naver.com/infinitebuying/22724](https://cafe.naver.com/infinitebuying/22724)
+
+### **새기능**
+
+* 매매기본
+  *   0% 매도가 비율 소수점 설
+
+
+
+### **기능개선 / 버그수정**
+
+*   스마트 비서
+
+    * 종목 추천 메일 표 깨지는 현상 수정
+
+
+* 매매기본
+  * 매도가 비율 소수점 설정 00 \~ 99 범위 허
+
+## \[v2.7.1] 2021-11-23
+
+[https://cafe.naver.com/infinitebuying/22724](https://cafe.naver.com/infinitebuying/22724)
+
+### **새기능**
+
+*   다인용런
+
+    * Full Automatic Mode 완전자동화 자동등록
+      * 설정한 시간대로 완전 자동화 작업 스케쥴러 자동 등록/삭제
+      * 완전 자동화 테스트 모드 추가
+
+
+
+### **기능개선 / 버그수정**
+
+* 기타
+  * 예수금 인식 개선
+  * 기본 딜레이 변경 및 속도 개선
+  * 신규매수 멈춤현상 수정
+
 ## \[v2.7] 2021-11-14
 
 [https://cafe.naver.com/infinitebuying/21617](https://cafe.naver.com/infinitebuying/21617)
