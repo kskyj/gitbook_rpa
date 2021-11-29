@@ -16,13 +16,39 @@ description: >-
 
 
 
-## **PC 자동 시작, Full Automatic Mode 설정(홈런타짜 님)**
+## 빠른 완전자동화 설정 &#x20;
+
+
+
+RPA에서 다인용 런처 실행
+
+​![](<../.gitbook/assets/image (1) (2).png>)
+
+
+
+**파란버튼만 누르면 설정한 시작시간으로 평일에 완전자동화가 등록**
+
+![](../.gitbook/assets/풀오토\_자동.gif)
+
+
+
+
+
+
+
+
+
+## 고급설정
+
+
+
+## **#PC 자동 시작, Full Automatic Mode 설정(홈런타짜 님)**
 
 {% embed url="https://cafe.naver.com/infinitebuying/7667" %}
 
 
 
-## **여러사람 여러계좌 Full Automatic Mode 배치파일 설정 예시**
+## **#여러사람 여러계좌 Full Automatic Mode 배치파일 설정 예시**
 
 * 여러 사람, 여러 계좌  Full Automatic Mode 가능
 * 프리장(17시)때 원화 주문 자동이 안되기 때문에, 매도(17시), 매수(19시 이후) 별도 주문 가능

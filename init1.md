@@ -14,7 +14,7 @@
 
 #### 2. 자동로그인 기능을 위해 영웅문 Global을 실행후 인증화면에서 자동팝업 및 매번입력 기능이 아래와 같이 설정합니다.
 
-* 체크 : XX인증 자동팝업
+* 체크 : XX인증 자동 팝업
 * 체크해제 : XX인증 매번 입력
 
 ![](<.gitbook/assets/image (33).png>)
@@ -60,6 +60,10 @@ RPA가 정상동작을 위해서는 **반드시 관리자 권한으로 실행되
 
 ![](<.gitbook/assets/image (11).png>)
 
-이제 세팅은 끝났습니다. 아래를 참고해서 실행하세요.
 
-{% embed url="https://fragilememor.gitbook.io/kskyj-rpa-kium/quick_guide" %}
+
+이제 세팅은 끝났습니다. 바탕화면의 지니RPA를 실행하고 아래를 참고하세요.
+
+{% content-ref url="quick_guide.md" %}
+[quick\_guide.md](quick\_guide.md)
+{% endcontent-ref %}
