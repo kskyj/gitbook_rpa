@@ -46,13 +46,13 @@ RPA에서 다인용 런처 실행
 
 
 
-## **#PC 자동 시작, Full Automatic Mode 설정(홈런타짜 님)**
+### **#PC 자동 시작, Full Automatic Mode 설정(홈런타짜 님)**
 
 {% embed url="https://cafe.naver.com/infinitebuying/7667" %}
 
 
 
-## **#여러사람 여러계좌 Full Automatic Mode 배치파일 설정 예시**
+### **#여러사람 여러계좌 Full Automatic Mode 배치파일 설정 예시**
 
 * 여러 사람, 여러 계좌  Full Automatic Mode 가능
 * 프리장(17시)때 원화 주문 자동이 안되기 때문에, 매도(17시), 매수(19시 이후) 별도 주문 가능
@@ -67,30 +67,6 @@ kskyj\_RPA\_run
 * **마지막 사용자는 설정 > 일반/화면 > 종료시 윈도우 같이 종료 체크**
 
 
-
-### **#외화가 충분하거나 수동으로 자동원금설정 변경하는 경우, 또는 19시 이후에만 매매하는경 ( -A / --auto-mode 옵션)**
-
-:: RPA경로로 이동
-
-cd /d c:\kskyj\_RPA
-
-:: 첫번째 사용자(윈도우 종료 하지 않을것)
-
-&#x20;c:\kskyj\_RPA\kskyj\_RPA -A user\_data\_1.dat config\_1.ini
-
-
-
-:: 영웅문 Process 종료&#x20;
-
-wmic process where name='nfstarter.exe' delete&#x20;
-
-wmic process where name='nfrunlite.exe' delete
-
-
-
-:: 두번째 사용자 (윈도우 종료 해놓을것)
-
-c:\kskyj\_RPA\kskyj\_RPA -A user\_data\_2.dat config\_2.ini
 
 
 
