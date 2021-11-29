@@ -59,3 +59,7 @@ RPA가 정상동작을 위해서는 **반드시 관리자 권한으로 실행되
 ** 2.  호환성 > 설정 > 관리자 권한으로 이 프로그램 실행 체크 후 확인**
 
 ![](<.gitbook/assets/image (11).png>)
+
+이제 세팅은 끝났습니다. 아래를 참고해서 실행하세요.
+
+{% embed url="https://fragilememor.gitbook.io/kskyj-rpa-kium/quick_guide" %}

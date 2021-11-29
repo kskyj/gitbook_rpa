@@ -10,6 +10,12 @@ description: >-
 
 ****[**https://youtu.be/yj4iGCGOB3E**](https://youtu.be/yj4iGCGOB3E)****
 
+## 필수사항
+
+* 윈도우 자동로그인(암호 없이 로그인)
+
+
+
 ## **PC 자동 시작, Full Automatic Mode 설정(홈런타짜 님)**
 
 {% embed url="https://cafe.naver.com/infinitebuying/7667" %}

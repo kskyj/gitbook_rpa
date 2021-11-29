@@ -2,8 +2,8 @@
 
 * [라오어님 무한매수법 kskyj RPA 소개](README.md)
 * [\[필독\]처음 설정하기](init1.md)
+* [\[필독\]퀵사용가이드](quick\_guide.md)
 * [\[필독\]자주하는 질문(FAQ)](faq.md)
-* [퀵가이드](quick\_guide.md)
 * [화면 기능 설명](detail.md)
 * [릴리즈 노트](releasenote.md)
 * [여러계좌 여러사람 편리하게 쓰는 \[다인용 런처\]](launcher.md)
