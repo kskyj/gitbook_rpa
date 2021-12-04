@@ -30,7 +30,7 @@
 
 
 
-5\. 더보기 > 메일로 이동 하여 받은메일에서 \[지니 RPA]  관심친구 등록
+5\. 더보기 > 메일로 이동 하여 받은메일에서 \[지니 RPA]  관심친구 등록. kskyjrpa@gmail.com \~ kskyjrpa4@gmail.com 4개전부 관심친구 등록필요
 
 ![카카오톡 > 더보기 > 메일](<../.gitbook/assets/image (71).png>)
 
