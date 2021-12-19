@@ -1,4 +1,4 @@
-# 릴리즈 노트
+### 릴리즈 노트
 ## \[v2.8.2] 2021-12-19
 [https://cafe.naver.com/infinitebuying/26198](https://cafe.naver.com/infinitebuying/26198)
 ### **새기능**
@@ -9,7 +9,7 @@
   * WEBL 배당 고려 매수, 매도 지원
   * 배당기능 WEBL만 선택할수 있도록 변경
   * 장중매수(기본) 현재가 x 1.01(1%)가격으로 매수하도록 변경하여 매수거부 현상 방지
-#
+###
 ### **기능개선 / 버그수정**
 * 매매기본값
   - 분할매도 선택 V1 에서만 적용되도록 변경
@@ -21,7 +21,7 @@
 * 버그수정
   - 느린 PC/네트워크 에서 간헐적으로 계좌번호 첫번째 아닐경우 미국외 다른나라 선택해서 종목가져오기 안되던 현상 수정
   - 원장주문체결 일부 안가져와 개수 주문요청과 맞지않는 현상 수정
----
+#
 ## \[v2.8.1] 2021-12-15
 [https://cafe.naver.com/infinitebuying/22724](https://cafe.naver.com/infinitebuying/22724)
 ### **새기능**
@@ -34,11 +34,11 @@
 ###
 * 완전자동화
   * 설정가이드 및 UI개선
-#
+###
 ### **기능개선 / 버그수정**
 * 버그수정
   * 작업스케줄러 등록시 시간변경안되는 현상 수정
----
+#
 ## \[v2.8] 2021-12-11
 [https://cafe.naver.com/infinitebuying/25421](https://cafe.naver.com/infinitebuying/25421)
 ### **새기능**
@@ -71,7 +71,7 @@
 * 매매현황판
   * 제외종목 표시
   * 장중매수 종목 표시
-#
+###
 ### **기능개선 / 버그수정**
 * 실현손익
   * 달러도 같이 표시
@@ -84,20 +84,20 @@
 ###
 * 버그수정
   * 0% 비율 재시작해야 적용되는 문제 수정
----
+#
 ## \[v2.7.2] 2021-11-23
 [https://cafe.naver.com/infinitebuying/22724](https://cafe.naver.com/infinitebuying/22724)
 ### **새기능**
 * 매매기본
   * 0% 매도가 비율 소수점 설정
-#
+###
 ### **기능개선 / 버그수정**
 * 스마트 비서
   * 종목 추천 메일 표 깨지는 현상 수정
 ###
 * 매매기본
   * 매도가 비율 소수점 설정 00 \~ 99 범위 허용
----
+#
 ## \[v2.7.1] 2021-11-23
 [https://cafe.naver.com/infinitebuying/22724](https://cafe.naver.com/infinitebuying/22724)
 ### **새기능**
@@ -105,13 +105,13 @@
   * Full Automatic Mode 완전자동화 자동등록
     * 설정한 시간대로 완전 자동화 작업 스케쥴러 자동 등록/삭제
     * 완전 자동화 테스트 모드 추가
-#
+###
 ### **기능개선 / 버그수정**
 * 기타
   * 예수금 인식 개선
   * 기본 딜레이 변경 및 속도 개선
   * 신규매수 멈춤현상 수정
----
+#
 ## \[v2.7] 2021-11-14
 [https://cafe.naver.com/infinitebuying/21617](https://cafe.naver.com/infinitebuying/21617)
 ### **새기능**
@@ -122,19 +122,19 @@
     * 진행률 50% 이상일 경우 매도 개수 50% After지정가(기본 10%가격), 25% After지정가(기본 5%가격), 25% LOC매도(0%가격)
     * LOC매도일 경우 매도가격 색상 남색으로 변
     * 분할매도개수, 분할매도가격 추가(1280 해상도 아래에서는 보이지 않음)
-#
+###
 ### **기능개선 / 버그수정**
 * 기타
   * 매도 중단 매도, 분할매도 1개라도 중단일 경우 무조건 매도 중단
   * 공동인증서 로그인 일부특수문자 입력안되는 현상 수정
   * 매매종목, 예외종목 소문자로 작성해도 대문자로 인식
----
+#
 ## \[v2.6.5] 2021-11-06
 [https://cafe.naver.com/infinitebuying/20777](https://cafe.naver.com/infinitebuying/20777)
 ### **기능개선 / 버그수정**
 * 기타
   * 투자금 현황관리 잘못 계하는것 수정
----
+#
 ## \[v2.6.4] 2021-11-05
 [https://cafe.naver.com/infinitebuying/20777](https://cafe.naver.com/infinitebuying/20777)
 ### 새기능
@@ -143,7 +143,7 @@
 ###
 * 다계좌 다인용 런처
   * 기본 RPA 표시(순번 0) 및 모두 한번에 Go! 실행시 같이 실행
-#
+###
 ### **기능개선 / 버그수정**
 * 매매현황판
   * 큰수 LOC매수 가격 계산방법 변경(TLP\_V1 과 동일)
@@ -155,7 +155,7 @@
 * 기타
   * 특정환경에서 실현손익 조회 속도 및 인식 개선
   * 상단에 RPA 순번 표시
----
+#
 ## \[v2.6.3] 2021-10-28
 [https://cafe.naver.com/infinitebuying/19476](https://cafe.naver.com/infinitebuying/19476)
 ### **기능개선 / 버그수정**
@@ -169,7 +169,7 @@
   * 실현손익, 예수금 조회 실패하더라도 주요기능 동작하도록 처리
   * 섹터구분 삭제할 경우 기본값 나오도록 변경
   * 모두 한번에 Go 호환성 향상
----
+#
 ## \[v2.6.2] 2021-10-06
 [https://cafe.naver.com/infinitebuying/16393](https://cafe.naver.com/infinitebuying/16393)
 ### **기능개선 / 버그수정**
@@ -178,9 +178,9 @@
     * 예수금이 일매수시도액보다 적은경우 경고 및 매수중단 옵션화
 ###
 * 기타
-  * 특정환경에서 간헐적으로 실현손익, 예수금 #N/A 나오는 현상 처리
+  * 특정환경에서 간헐적으로 실현손익, 예수금 ###N/A 나오는 현상 처리
   * 종목 전부 지웠을 경우 한번에 초기화 안되는 현상 처리
----
+#
 ## \[v2.6.1] 2021-10-04
 [https://cafe.naver.com/infinitebuying/16393](https://cafe.naver.com/infinitebuying/16393)
 ### **기능개선 / 버그수정**
@@ -198,7 +198,7 @@
   * 잔고 없는 경우 환율 못가져오는 현상 처리
   * 실현손익, 원화주문설정 진행후 종목가져오기 하도록 변경
   * 계좌 변경하여 조회시 기존 계좌 정보 나오는 현상 수정
----
+#
 ## \[v2.6] 2021-09-29
 [https://cafe.naver.com/infinitebuying/16393](https://cafe.naver.com/infinitebuying/16393)
 ### **새기능**
@@ -213,7 +213,7 @@
 ###
 * 매매기본값
   * 매매 제외 종목 추가
-#
+###
 ### **기능개선 / 버그수정**
 * 종목 추천 / 신규 매수
   * 기본보기 20개로 변경
@@ -234,7 +234,7 @@
   * 안정화 코드적용(영웅문Global 인식, 매매등)
   * 사용자이름에 '꺙' 같은 글자 사용한 경우 에러나는 현상 수정
   * 설정 > 일반/화면 > 업데이트 확인 여부 삭제
----
+#
 ## \[v2.5] 2021-09-11
 [https://cafe.naver.com/infinitebuying/15050](https://cafe.naver.com/infinitebuying/15050)
 ### **새기능**
@@ -243,7 +243,7 @@
 ###
 * 종목추천
   * 모든 진입 RSI 유형에 현재 RSI 와 차이 표시
-#
+###
 ### **기능개선 / 버그수정**
 * 매매현황판
   * 계좌잔고에 종목이 하나도 없는 경우 신규 매수 안되는 현상 수정
@@ -257,7 +257,7 @@
   * 안정화 코드적용(영웅문Global 인식, 매매등)
   * 종목별 원금 초기화 기능 삭제
   * 설정 > 일반/화면 > 항상 종목 가져오기 삭제
----
+#
 ## \[v2.4.5] 2021-09-02
 [https://cafe.naver.com/infinitebuying/14300](https://cafe.naver.com/infinitebuying/14300)
 ### **기능개선 / 버그수정**
@@ -268,7 +268,7 @@
   * 안정성 향상을 위한 동작 딜레이 추가
   * 매수 또는 매도 버튼 눌렀을때 영웅문Global(HTS)화면 지우기 추가
   * 특정환경에서 영웅문Global(HTS) 창 최소화 하고 종목가져오기 없이 매수 또는 매도 버튼 누를 경우 인식 안되는 현상 수정
----
+#
 ## \[v2.4.4] 2021-09-01
 [https://cafe.naver.com/infinitebuying/14300](https://cafe.naver.com/infinitebuying/14300)
 ### **기능개선 / 버그수정**
@@ -284,7 +284,7 @@
   * 특정상황 동작 안정성 향상
   * 동작 속도 향상
   * 특정환경에서 영웅문Global(HTS)전체화면 으로 하고 창 최소화 할경우 인식 안되는 현상 수정
----
+#
 ## \[v2.4.3] 2021-08-27
 [https://cafe.naver.com/infinitebuying/13226](https://cafe.naver.com/infinitebuying/13226)
 ### **기능개선 / 버그수정**
@@ -293,7 +293,7 @@
   * 영웅문Global 로그인 구방식 추가
   * 설정 > 일반/화면 > \[OLD]영웅문Global 로그인
   * 특정상황 동작 안정성 향상
----
+#
 ## \[v2.4.2] 2021-08-26
 [https://cafe.naver.com/infinitebuying/13226](https://cafe.naver.com/infinitebuying/13226)
 ### **기능개선 / 버그수정**
@@ -301,7 +301,7 @@
   * 풀오토매틱 모드 동작 안하는 현상 수정
   * 종목추천 finviz 링크 동작 안하는 현상 수정
   * 특정상황에서 영웅문Global 로그인 개선
----
+#
 ## \[v2.4.1] 2021-08-25
 [https://cafe.naver.com/infinitebuying/13226](https://cafe.naver.com/infinitebuying/13226)
 ### **기능개선 / 버그수정**
@@ -315,7 +315,7 @@
   * 원화주문설정 0 원일경우 안되는 현상 개선
   * 매매시 미체결 메뉴에서 전체 선택
   * 안정성 향상 옵션 추가
----
+#
 ## \[v2.4] 2021-08-22
 [https://cafe.naver.com/infinitebuying/13226](https://cafe.naver.com/infinitebuying/13226)
 ### 새기능
@@ -334,14 +334,14 @@
   * 윈도우 배율 100%에서만 동작하는것 제거
   * 모니터 여러 사용시 영웅문Global(HTS)가 주 모니터에 있을때만 동작하는것 제거
   * 영웅문Global(HTS) 디폴트 설정 해야하는것 제거
-#
+###
 ### **기능개선 / 버그수정**
 * 기타
   * 백신 오진 개선
   * 속도 개선
   * 매매 개수 1000개 넘을 경우 매매 중단 되는 현상 해결
   * 특정환경 인식 및 동작 오류 개선
----
+#
 ## \[v2.3.1] 2021-08-19
 [https://cafe.naver.com/infinitebuying/12962](https://cafe.naver.com/infinitebuying/12962)
 ### **기능개선 / 버그수정**
@@ -349,7 +349,7 @@
   * 백신 오진 개선
   * 프로그램 동작시 영웅문Global(HTS)모든창 닫는 현상 수정
   * 속도 개선
----
+#
 ## \[v2.3] 2021-08-18
 [https://cafe.naver.com/infinitebuying/12962](https://cafe.naver.com/infinitebuying/12962)
 ### 새기능
@@ -379,7 +379,7 @@
 ###
 * 발신 메일 수동 설정
   * Gmail 계정을 추가하여 매매 완료 발신 메일 개별 설정 가능
-#
+###
 ### **기능개선 / 버그수정**
 * 매매현황판
   * 종목 가져오기 옵션화 : 일반/화면에 항상 종목 다시 가져오기 옵션 추가
@@ -392,7 +392,7 @@
 * 기타
   * 윈도우 종료 기능 개선
   * 프로그램 동작시 영웅문Global 항상 전체화면 하는것 제외(1366 이하에서는 전체 화면)
----
+#
 ## \[v2.2.2] 2021-08-02
 [https://cafe.naver.com/infinitebuying/11741](https://cafe.naver.com/infinitebuying/11741)
 
@@ -412,7 +412,7 @@
 ###
 * 매매 기능
   * 진행률 100% 이상이라도 매수하도록 변경
----
+#
 ## \[v2.2] 2021-07-29
 [https://cafe.naver.com/infinitebuying/11426](https://cafe.naver.com/infinitebuying/11426)
 ### 새기능
@@ -425,7 +425,7 @@
 ###
 * 종목추천
   * 진입RSI 무시 옵션 추가
-#
+###
 ### **기능개선 / 버그수정**
 * 매매현황판
   * 자동원금계산 아닐 경우 자동계산 한번만 하면, V1, TLP\_V1 큰수 매수 가격 V2 형태로 계산되는것 수정
@@ -437,7 +437,7 @@
   * 최초 설정안하면 종목 저장 안되는문제 수정
   * 해상도 관계없이 EULA 다 나오도록 수정
   * 호환성 향상 패키지로 일원화
----
+#
 ## \[v2.1.1] 2021-07-23
 [https://cafe.naver.com/infinitebuying/10961](https://cafe.naver.com/infinitebuying/10961)
 ### **기능개선 / 버그수정**
@@ -452,7 +452,7 @@
 * 기타
   * 해상도 가로 사이즈 1366 이하에서 종목 가져오지 못하는 현상 수정
   * 호환성 향상 패키지 배포(cl 컴파일러 빌드)
----
+#
 ## \[v2.1] 2021-07-23
 [https://cafe.naver.com/infinitebuying/10961](https://cafe.naver.com/infinitebuying/10961)
 ### 새기능
@@ -470,7 +470,7 @@
 ###
 * 커스텀매매
   * 매수, 매도 가격 범위에 따라 매매 제한기능 제거
-#
+###
 ### **기능개선 / 버그수정**
 * 매매현황판
   * 종목 추가/삭제 되었을 경우 원금, 무한매수방법론 밀리는것 개선
@@ -484,7 +484,7 @@
 * 기타
   * 해상도 1366이하일때 eula 잘리지 않도록 변경
   * 해상도 1366이하일때 시작점 0,0 으로 고정
----
+#
 ## \[v2.0] 2021-07-20
 [https://cafe.naver.com/infinitebuying/10134](https://cafe.naver.com/infinitebuying/10134)
 
@@ -502,7 +502,7 @@
   * 투자금만 적으면 무한매수법 V2의 가상증액 자동 계산
   * 종목당 2% 전체 20% 넘지않도록 자동으로 계산
   * 종목별로 무한매수법 v2종목들로 선택되어 있는것만 선별하여 계산
-##
+%%
 * 자동원금설정
   * 종목당 원금이 입력되지 않은것에 대해 가용 투자금에서 자동으로 설정
   * 균등배분 : 투자금의 남은금액을 종목수 대로 균등배분
@@ -569,21 +569,21 @@
   * 매수만 실행 : --auto-mode-buy / -AB
   * 테스트모드(휴일,개장전 테스트용) : 위의 오토모드 옵션뒤에 4번째 인자로 --test-mode / -TM
   * 입력예시) kskyj\_RPA.exe -AS -TM : 매수만 테스트모드로 실행
-#
+###
 ### **기능개선 / 버그수정**
 * 기타
   * HTS 설정 제약사항 제거(해외주식 일괄주문 설정, 툴바제거 등)
   * openCV 제거 및 패키지 50%용량 줄임
   * 패키지 mingw64로 빌드
   * 조회(50%) 및 매매(30%) 속도 향상
----
+#
 ## \[v1.5.1] 2021-06-30
 [https://cafe.naver.com/infinitebuying/10134](https://cafe.naver.com/infinitebuying/10134)
 ### **기능개선 / 버그수정**
 * 특정환경에서 입력지연값 높여도 매매 실패발생하는 경우 개선
 * 특정환경에서 윈도우 종료 안되는것 수정
 * 특정환경에서 한번에Go 사용시 영웅문 Global 실행중 경고 메시지 표시 자동화(옵션화 제거)
----
+#
 ## \[v1.5] 2021-06-16
 [https://cafe.naver.com/infinitebuying/10134](https://cafe.naver.com/infinitebuying/10134)
 ### 새기능
@@ -593,12 +593,12 @@
   * 최신버젼 소개글 이동
   * Full Automatic Mode 일때는 업데이트 체크 안함
   * config.ini의 auto\_update\_check = true(기본값) false로 변경시 업데이트 체크 안함
-#
+###
 ### **기능개선 / 버그수정**
 * 특정환경에서 한번에Go 사용시 영웅문 Global 실행중 경고 현상 수정 및 옵션화
   * config.ini의 hts\_run\_check\_popup = true(기본값) false 로 변경시 영웅문 실행 감지 경고 메시지 표시 안함
 * 영운문 Global 간편인증으로 로그인  여러 계정 로그인 제대로 못하는 현상 수정
----
+#
 ## \[v1.4.2] 2021-06-14
 [https://cafe.naver.com/infinitebuying/10134](https://cafe.naver.com/infinitebuying/10134)
 ### **기능개선 / 버그수정**
@@ -608,12 +608,12 @@
 * 영웅문 Global 공동인증서 저장 옵션 관계 없이 무조건 암호화 해서 저장
 * 영웅문 실행 감지 경고 메시지 FullAutomatic Mode 일때만 나오지 않도록 변경
 * 간편인증 첫번째 순서 아닐경우 로그인 안되는 현상 수정
----
+#
 ## \[v1.4.1] 2021-06-11
 [https://cafe.naver.com/infinitebuying/10134](https://cafe.naver.com/infinitebuying/10134)
 ### **기능개선 / 버그수정**
 * 큰수 LOC 계산 개선
----
+#
 ## \[v1.4] 2021-06-11
 [https://cafe.naver.com/infinitebuying/10134](https://cafe.naver.com/infinitebuying/10134)
 ### 새기능
@@ -635,31 +635,31 @@
 * 윈도우 종료 옵션 끈상태에 Full Automatic Mode 종료 안되는 현상 수정
 * 업데이트시 config.ini 초기화 되는 현상 수정
 * 입력지연 시간 선택 최대범위 추가
----
+#
 ## \[v1.3.5] 2021-06-10
 ### 새기능
 * 무한매수법 v2.0 일부 지원
   * 큰수 LOC 평단 5% 가격계산 변경
-#
+###
 ### **기능개선 / 버그수정**
 * 윈도우 종료 옵션 끈상태에 Full Automatic Mode에선 윈도우 종료되는 현상 수정
----
+#
 ## \[v1.3.4] 2021-06-06
 [https://cafe.naver.com/infinitebuying/10134](https://cafe.naver.com/infinitebuying/10134)
 ### 새기능
 * LOC 매도 지원
   * config.ini의 loc\_sell = true 일때 전 종목 LOC매도로 진행, 기본값은 false(지정가 매도)
   * 설정에 따라 매도버튼 변경
----
+#
 ## \[v1.3.3] 2021-06-05
 ### 기능개선 / 버그수정
 * 특정환경에서 메뉴찾기 실패하는 현상 해결
 * 사이즈 자동조절 실패하는 현상 해결
----
+#
 ## \[v1.3.2] 2021-06-04
 ### 새기능
 * 한번에 Go 커스텀 항목 저장
-#
+###
 ### 기능개선 / 버그수정
 * 한번에 Go 사용 개선
   * 영웅문 Global 실행상태 감지하여 영웅문실행 여부 결정
@@ -670,12 +670,12 @@
   * 일괄주문 메뉴 조금 가려져도 인식
 * 인스톨러 사용 시 kskyj\_rpa\_lou.exe 삭제
 * python 3.8.x 환경으로 변경(Windows 7  대응)
----
+#
 ## \[v1.3.1] 2021-05-30
 ### 기능개선 / 버그수정
 * 기본 세로 사이즈 종목 18개 보이도록 변경(1024 x 768 환경을 위해)
 * config.ini의 log\_level 설정대로 화면에 적용되지 않는 버그 수정
----
+#
 ## \[v1.3] 2021-05-26
 [https://cafe.naver.com/infinitebuying/10134](https://cafe.naver.com/infinitebuying/10134)
 ### 새기능
@@ -695,7 +695,7 @@
   * 상단 이름등의 메시지 입력
     * config.ini의 user 설정
   * 상단 및 하단 색상 변경
-    * config.ini의 custom\_color = #E6E6E6(기본값)
+    * config.ini의 custom\_color = ###E6E6E6(기본값)
 * 업데이트 시 종목, 설정 데이터 자동 복원
 * 종목 업데이트 후 종목 및 원금 자동 저장
 * 전체 원금 사용률 표시
@@ -709,13 +709,13 @@
   * config.ini의 certificate\_save = false(기본값)
 * 휴일 개장전 테스트 config.ini 설정
   * config.ini의 before\_opening\_test = false(기본값)
-#
+###
 ### 기능개선 / 버그수정
 * 로그 파일 출력 기본값 INFO 로 변경(매매 속도 개선 효과)
 * 프로그램 종료시 윈도우 종료 메시지 개선
 * 패키지 용량 간소화 및 nuitka 로 변경
 * 백신 오진 전부 처리 virustotal.com 검출 개수 0
----
+#
 ## \[v1.2.3/1.2.4] 2021-05-21 (Split 법)
 [https://cafe.naver.com/infinitebuying/10134](https://cafe.naver.com/infinitebuying/10134)
 ### 새기능
@@ -726,30 +726,30 @@
   * user\_data.dat, config.ini 설정 파일 파라미터로 받아서 다른파일 지원
 * 수익률 표시
 * python 3.9.5, 기타 라이브러리 최신버젼으로 업데이트
-#
+###
 ### 기능개선 / 버그수정
 * 로그 파일 출력 기본값 INFO 로 변경
 * 에러코드 05 상황 발생하더라도 넘어가도록 변경(단, HTS설정을 변경 안할 경우 약간의 딜레이 생김)
----
+#
 ## \[v1.2.2] 2021-05-18
 [https://cafe.naver.com/infinitebuying/10134](https://cafe.naver.com/infinitebuying/10134)
 ### 새기능
 * 간헐적 입력지연이 발생하는 환경에서 안전장치 강화
-#
+###
 ### 기능개선 / 버그수정
 * 영웅문 Global 실행시 마우스/키보드 잠금 해제
 * 종료시 메시지 변경
----
+#
 ## \[v1.2.1] 2021-05-14 (Real Official)
 [https://cafe.naver.com/infinitebuying/10134](https://cafe.naver.com/infinitebuying/10134)
 ### 기능개선 / 버그수정
 * 계좌번호 순서 저장안되는 현상 수정
 * 패키지에 아이콘등 이미지 누락 해결
----
+#
 ## \[v1.2] 2021-05-14 (~~Official~~)
 ### 새기능
 * 종목 업데이트 시 verticatl\_size = default 모드에서 종목 17개 이상일 경우 자동으로 감지하여 max모드로 자동 재실행
-#
+###
 ### 기능개선 / 버그수정
 * 로그인 비밀번호 지우면 저장안되는 현상 수정
 * 종목 업데이트시 가져온 종목이 0개일 경우 경고 처리
@@ -759,34 +759,34 @@
 * 입력종목 업데이트 실패시 마우스/키보드 잠금해제
 * HTS 인증시 마우스/키보드 잠금 필요할때만 하도록 변경
 * 에러메시지 개선
----
+#
 ## \[v1.1.4] 2021-05-08 (OpenBeta)
 [https://cafe.naver.com/infinitebuying/10134](https://cafe.naver.com/infinitebuying/10134)
 ### 기능개선 / 버그수정
 * 로그개선
 * 입력종목 업데이트 실패시 마우스/키보드 잠금해제
----
+#
 ## \[v1.1.3] 2021-05-06
 ### 기능개선 / 버그수정
 * LTE 환경등과같이 통신이 느린상태에서 주문 지연발생하는 상황 처리
 * 동작속도 개선, 입력지연 기본값(0) 변경
 * 입력지연 0 또는 1일때 저장 안되는것 수정
----
+#
 ## \[v1.1.2] 2021-05-05
 ### 기능개선 / 버그수정
 * 매수, 매도 버튼 순서 및 한번에 Go에서 동작 순서변경
----
+#
 ## \[v1.1.1] 2021-05-05
 ### 새기능
 * 저장시 윈도우 종료 여부 확인 옵션 추가 config.ini 파일 변경
   * exit\_with\_window = true 종료시 윈도우 종료 확인
   * exit\_with\_window = false 종료시 윈도우 종료 확인 안함
 * 아이콘 변경
-#
+###
 ### 기능개선 / 버그수정
 * 기본 종목 추가\[BNKU,CURE,DRN,DUSL,EURL,FAS,FNGU,GDXU,HIBL,INDL,KORU,MIDU,NAIL,SOXL,TECL,TNA,TPOR,TQQQ,UPRO,WANT,WEBL,YINN,LABU,DFEN,DPST,RETL,MEXX,EDC,URTY,UTSL,PILL,TYD,UDOW,UMDD,TMF,SPXL,NRGU]
 * 종목 저장 후 윈도우 종료 미확인 수정
----
+#
 ## \[v1.1] 2021-05-03
 
 ### 새기능
@@ -809,14 +809,14 @@
 * 주문 검증 실패로 자동매매 중단시 주문 창 무조건 닫기로 변경
 * 키움 HTS글로벌 실행시 마우스/키보드 잠금 해제
 * 원금이 매입금액보다 적을 경우 경고표시
-#
-### 기능개선 / 버그수정&#x20;
+###
+### 기능개선 / 버그수정&###x20;
 * TPOR 종목 오타 수정 및 기본 종목 추가\[BNKU,CURE,DRN,DUSL,EURL,FAS,FNGU,GDXU,HIBL,INDL,KORU,MIDU,NAIL,SOXL,TECL,TNA,TPOR,TQQQ,UPRO,WANT,WEBL,YINN,LABU,DFEN,DPST,RETL]
 * 매도 검증시 특정가격에서 실패하는 현상 해결
 * 컴퓨터가 느릴때 입력 지연문제로 주문이 이상하게 요청되는것 해결(입력 지연 기능 추가)
 * HTS 주문진행불가(HTS 프리징)상태 일때 다음동작 진행되지 않도록 수정
 * 실행파일 백신 오진 검증 해결(Thanks to Lotto님 :)
----
+#
 ## \[v1.0] 2021-04-24
 ### 새기능
 * 영웅문 Global 실행(로그인 비밀번호 선택사항)
