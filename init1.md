@@ -4,9 +4,9 @@
 
 #### 1. 아래 사이트로 이동 하여 영웅문Global 설치(설치 안했을 경우)
 
-{% embed url="https://fx.kiwoom.com/fxk.templateFrameSet.do" %}
-
-![](<.gitbook/assets/image (7).png>)
+{% embed url="https://download.kiwoom.com/herog_custom/KiwoomGlobalSetup.exe" %}
+클릭해서 다운로드 후 설치
+{% endembed %}
 
 ![](<.gitbook/assets/image (31).png>)
 
