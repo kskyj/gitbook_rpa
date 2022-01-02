@@ -10,9 +10,7 @@
 
 ![](<.gitbook/assets/image (31).png>)
 
-
-
-## #1 영웅문 Global 계좌번호 저장
+## #1 영웅문 Global 계좌번호 저장 및 보안설정
 
 해당 기능은 설정하지 않으면 매번 계좌 비밀번호를 입력하고 오류가 발생 하기 때문에 **반드시** **설정하기를 권장합니다.**
 
@@ -28,7 +26,9 @@
 * 체크 : 다음 접속시에도 저장된 비밀번호 유지하여 계속 사용
 * 체크해제: 멀티로그인(동시접속) 팝업알림
 
-![](https://gblobscdn.gitbook.com/assets%2F-MZ-Y7H8lCWI22Yo\_bhV%2F-M\_LBjyfL6vqLvOknMyu%2F-M\_LBwRAMKEuEnvzjqZB%2Fimage.png?alt=media\&token=b112abba-6ecf-4de5-aebb-e0ddf33c1fd2)[\
+![](.gitbook/assets/setting.png)
+
+[\
 ](https://fragilememor.gitbook.io/kskyj-rpa-kium/initial\_setting/init1)
 
 
