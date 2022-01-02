@@ -31,26 +31,6 @@
 ![](https://gblobscdn.gitbook.com/assets%2F-MZ-Y7H8lCWI22Yo\_bhV%2F-M\_LBjyfL6vqLvOknMyu%2F-M\_LBwRAMKEuEnvzjqZB%2Fimage.png?alt=media\&token=b112abba-6ecf-4de5-aebb-e0ddf33c1fd2)[\
 ](https://fragilememor.gitbook.io/kskyj-rpa-kium/initial\_setting/init1)
 
-## #3 지니 RPA 관리자 권한으로 실행
-
-RPA가 정상동작을 위해서는 **반드시 관리자 권한으로 실행되어야 합니다.**&#x20;
-
-**기본으로 관리자 권한으로 실행하게 설정되어 있고, 관리자 권한으로 실행을 안할경우 경고**가 나옵니다.&#x20;
-
-**매번 확인을 해야 될수도 있으므로 아래처럼 설정을 해서 항상 관리자 권한으로 실행하는 것을 권장**합니다.
-
-****
-
-**1. 바탕화면의 지니RPA 바로가기에서 마우스 우클릭 후 속성 클릭**
-
-![](<.gitbook/assets/image (79).png>)
-
-
-
-&#x20;**2.  호환성 > 설정 > 관리자 권한으로 이 프로그램 실행 체크 후 확인**
-
-![](<.gitbook/assets/image (11).png>)
-
 
 
 이제 세팅은 끝났습니다. 바탕화면의 지니RPA를 실행하고 아래를 참고하세요.
