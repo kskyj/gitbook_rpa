@@ -53,3 +53,6 @@ RPA에서 다인용 런처 실행
 
 {% embed url="https://cafe.naver.com/infinitebuying/7667" %}
 
+### #클라우드 컴퓨터에서 실행 vultr(5$/월)
+
+{% embed url="https://cafe.naver.com/infinitebuying/25556" %}
