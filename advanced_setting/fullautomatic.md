@@ -25,7 +25,7 @@ description: >-
 
 RPA에서 다인용 런처 실행
 
-![](<../.gitbook/assets/image (104).png>)
+![](<../.gitbook/assets/image (104) (1).png>)
 
 ​
 

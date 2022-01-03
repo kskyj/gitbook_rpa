@@ -6,7 +6,7 @@
 * [\[필독\]자주하는 질문(FAQ)](faq.md)
 * [화면 기능 설명](detail.md)
 * [릴리즈 노트](releasenote.md)
-* [여러계좌 여러사람 편리하게 쓰는 \[다인용 런처\]](launcher.md)
+* [여러계좌 여러사람 편리하게 쓰는 \[다계좌/자동화\] 다인용 런처](launcher.md)
 * [소프트웨어 최종사용자 사용권 계약서/이용약관(EULA)](eula.md)
 
 ## 고급 설정 <a href="#advanced_setting" id="advanced_setting"></a>
