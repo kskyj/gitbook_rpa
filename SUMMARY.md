@@ -18,11 +18,11 @@
 ## 문제 해결하기 <a href="#issue_solved" id="issue_solved"></a>
 
 * [에러상황 및 해결](issue\_solved/error\_code.md)
+* [전원설정변경 또는 딜레이 설정](issue\_solved/solved4.md)
+* [백신 예외 설정(사용하는 백신에 따라 다름)](issue\_solved/antivirus.md)
+* [영웅문 글로벌(HTS)알림 제거](issue\_solved/hts.md)
 * [메모리 보안 적용 해제 후 재시작](issue\_solved/memory.md)
 * [프로그램 설치 경로 확인(한글경로 안됨)](issue\_solved/solved6.md)
-* [백신 예외 설정(사용하는 백신에 따라 다름)](issue\_solved/antivirus.md)
-* [전원설정변경 또는 딜레이 설정](issue\_solved/solved4.md)
-* [영웅문 글로벌(HTS)알림 제거](issue\_solved/hts.md)
 * [문제해결(구버젼)](issue\_solved/undefined/README.md)
   * [영웅문 로그인 자동팝업](issue\_solved/undefined/undefined.md)
   * [관리자 권한으로 실행](issue\_solved/undefined/init4.md)
