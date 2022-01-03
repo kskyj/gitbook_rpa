@@ -1,8 +1,8 @@
 # 릴리즈 노트
 
-### \[v2.9] 2022-01-02
+### \[v2.9] 2022-01-03
 
-[https://cafe.naver.com/infinitebuying/26198](https://cafe.naver.com/infinitebuying/26198)
+[https://cafe.naver.com/infinitebuying/28471](https://cafe.naver.com/infinitebuying/28471)
 
 **새기능**
 
