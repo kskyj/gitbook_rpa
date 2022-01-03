@@ -15,7 +15,7 @@
 * 간편인증 또는 공동인증서 선택(ID, 모의투자 선택 하면 안됨)
 * 체크해제 : XX인증 매번 입력
 
-![](<.gitbook/assets/image (106).png>)
+![](<.gitbook/assets/image (106) (1).png>)
 
 ## #2 영웅문 Global 계좌번호 저장 및 보안설정
 
@@ -32,11 +32,12 @@
 * 계좌별 비밀번호 입력(회색 네모부분 옆)
 * 체크 : 다음 접속시에도 저장된 비밀번호 유지하여 계속 사용
 * 체크해제: 멀티로그인(동시접속) 팝업알림
-
-![](.gitbook/assets/setting.png)
+* 체크해제 :  메모리 보안 적용
 
 [\
 ](https://fragilememor.gitbook.io/kskyj-rpa-kium/initial\_setting/init1)
+
+![](<.gitbook/assets/image (105).png>)
 
 이제 세팅은 끝났습니다. 바탕화면의 지니RPA를 실행하고 아래를 참고하세요.
 
