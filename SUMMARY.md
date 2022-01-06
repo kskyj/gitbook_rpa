@@ -1,6 +1,6 @@
 # Table of contents
 
-* [라오어님 무한매수법 kskyj RPA 소개](README.md)
+* [라오어님 무한매수법 스마트 RPA \[지니RPA\] 소개](README.md)
 * [\[필독\]처음 설정하기](init1.md)
 * [\[필독\]퀵사용가이드](quick\_guide.md)
 * [\[필독\]자주하는 질문(FAQ)](faq.md)
