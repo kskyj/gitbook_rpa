@@ -41,7 +41,7 @@
 
 이제 세팅은 끝났습니다. 바탕화면의 지니RPA를 실행하고 아래를 참고하세요.
 
-![](<.gitbook/assets/image (102).png>)
+![](<.gitbook/assets/image (102) (1).png>)
 
 {% content-ref url="quick_guide.md" %}
 [quick\_guide.md](quick\_guide.md)

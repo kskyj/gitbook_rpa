@@ -4,5 +4,5 @@
 
 1. 신호 관리자 끄기
 
-![](<../.gitbook/assets/image (103) (1).png>)
+![](<../.gitbook/assets/image (103) (1) (1).png>)
 

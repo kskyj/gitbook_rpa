@@ -19,21 +19,15 @@ description: >-
 * 윈도우 사용자계정컨트롤 끄기(영웅문이나 RPA 실행시 확인나오는경우)
 * PC/노트북/가상클라우드 PC(vultr 추천, amazon등)
 
-## 빠른 완전자동화 설정 &#x20;
+## 완전자동화 스마트 자동 등록 &#x20;
 
-RPA에서 다인용 런처 실행
+![](<../.gitbook/assets/image (102).png>)
 
-![](<../.gitbook/assets/image (104) (1) (1).png>)
+![](../.gitbook/assets/완전자동화세팅\_\_.gif)
 
-
-
-![](<../.gitbook/assets/image (1) (2).png>)
-
-
-
-**파란버튼만 누르면 설정한 시작시간으로 평일에 완전자동화가 등록**
-
-![](../.gitbook/assets/풀오토\_자동.gif)
+{% hint style="info" %}
+#### 파란버튼만 누르면 설정한 시작시간으로 완전자동화 자동 등록
+{% endhint %}
 
 
 

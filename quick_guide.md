@@ -4,7 +4,7 @@ description: 핵심기능만 간단히 설명
 
 # \[필독]퀵사용가이드
 
-![클릭해서 크게보세요](<.gitbook/assets/image (103).png>)
+![클릭해서 크게보세요](<.gitbook/assets/image (103) (1).png>)
 
 ### 처음실행&#x20;
 
