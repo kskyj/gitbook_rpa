@@ -3,16 +3,14 @@
 ### 처음 설치했습니다. 무엇을 해야하나요?
 
 {% hint style="info" %}
-
+아래 처음 설정하기 반드시 하고, 아래 퀵가이드 참고하면 됩니다. 이 FAQ도 참고하세요 :smile:
 {% endhint %}
 
 {% embed url="https://fragilememor.gitbook.io/kskyj-rpa-kium/init1" %}
 
 {% embed url="https://fragilememor.gitbook.io/kskyj-rpa-kium/quick_guide" %}
 
-아래 처음 설정하기 반드시 하고, 아래 퀵가이드 참고하면 됩니다. 이 FAQ도 참고하세요 :smile:
-
-
+####
 
 ### 동작이 제대로 되지 않는것 같습니다.
 
@@ -22,25 +20,35 @@
 
 {% embed url="https://fragilememor.gitbook.io/kskyj-rpa-kium/issue_solved/error_code" %}
 
-
-
-{% hint style="info" %}
 ### 자동 매매를 하고 싶은 종목 추가는 어떻게 하나요?신규 매매한 종목이 매매현황판에 추가가 안됩니다.
-{% endhint %}
 
 ![](<.gitbook/assets/image (99).png>)
 
+{% hint style="info" %}
 기본적으로 무한매수법 종목은 추가되어 있으며, BULZ와 같은 종목이 매매현황표에 나오지 않는다면 설정 > 매매 기본값 에 종목을 대문자로 추가해야 합니다.
+{% endhint %}
 
-## VR과 무한매수법 한계좌에 하고 있어 TQQQ가 자동매매 항목에 들어갑니다. TQQQ매도를 빼거나 안하는 방법은 없나요?
+## ㅓㅓ
 
-설정 > 매매 기본값 > 매매 제외 종목 에 TQQQ를 추가하세요.
+### VR과 무한매수법 한계좌에 하고 있어 TQQQ가 자동매매 항목에 들어갑니다. TQQQ매도를 빼거나 안하는 방법은 없나요?
 
 ![](<.gitbook/assets/image (98).png>)
 
-## 종목추천 / 신규 매수에 특정 종목이 나오지 않습니다.
+{% hint style="info" %}
+설정 > 매매 기본값 > 매매 제외 종목 에 TQQQ를 추가하세요.
+{% endhint %}
 
+##
+
+### 종목추천 / 신규 매수에 특정 종목이 나오지 않습니다.
+
+{% hint style="info" %}
 설정 > 매매 기본값 의 종목 메뉴에 특정 종목을 추가하세요. 단 추가할 경우 매매현황판에 종목이 추가되어 원치 않는 종목 매매를 하게 될 수 있습니다.
+{% endhint %}
+
+
+
+
 
 ## 매매현황판의 전일/금일 매매 개수가 맞지 않습니다.
 
