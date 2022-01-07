@@ -29,3 +29,12 @@
 
 
 4\. 다인용 런처의 모두 한번에Go! 를 누르면 순번 0번부터 자동으로 영웅문 로그인부터 매매를 시작합니다. 즉 각 RPA의 한번에Go! 와 동일합니다.
+
+{% hint style="warning" %}
+다인용 런처에서 사용자 이름을 지우면 모두 한번에 Go! 동작시 건너뜁니다.
+{% endhint %}
+
+{% hint style="success" %}
+완전 자동화(Full Automatic Mode) 는 다인용 런처에 설정된 순서대로 정해진 시간에 자동으로 진행하는 기능으로 설정은 가이드내 Full Automatic Mode(완전 자동화) 설정 및 응용을 참고하세요.
+{% endhint %}
+
