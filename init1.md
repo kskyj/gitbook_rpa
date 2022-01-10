@@ -34,12 +34,11 @@
 * 체크해제: 멀티로그인(동시접속) 팝업알림 해제
 * 체크해제:  메모리 보안 적용 해제
 
-[\
-](https://fragilememor.gitbook.io/kskyj-rpa-kium/initial\_setting/init1)
-
 ![](<.gitbook/assets/image (105).png>)
 
-이제 세팅은 끝났습니다. 바탕화면의 지니RPA를 실행하고 아래를 참고하세요.
+
+
+이제 세팅은 끝났습니다. 바탕화면의 지니RPA를 실행하고 아래 퀵사용가이드를 참고하세요.
 
 ![](<.gitbook/assets/image (102) (1).png>)
 
