@@ -2,6 +2,8 @@
 
 이 프로그램은 라오어님의 무한매수법을 영웅문 글로벌(키움 HTS)에서 스마트하게 자동으로 매매 해주는 프로그램 입니다.
 
+{% embed url="https://cafe.naver.com/infinitebuying" %}
+
 이 프로그램의 철학과, 주요 기능에 대한 배경 및 설명은 [개발일지](https://cafe.naver.com/infinitebuying/3548) 를 읽어서 참고하세요.**(최소 1과 6, 8은 읽으시길 권장합니다.)**
 
 {% hint style="info" %}
@@ -31,3 +33,9 @@
 > #### 즉 매매 데이터 자동계산과 자동매매로 시간을 단축시켜주며, 주문 실수를 최대한 방지해 줍니다.
 >
 > #### **편안함에 이르시기를 바랍니다** :smile:****
+
+{% hint style="success" %}
+프로그램은 라오어님 무한매수법 까페 > 자동프로그램게시판 에서 지니22 아이디로 검색하면 다운로드 받을수 있습니다.
+
+[https://cafe.naver.com/infinitebuying/28471](https://cafe.naver.com/infinitebuying/28471)
+{% endhint %}
