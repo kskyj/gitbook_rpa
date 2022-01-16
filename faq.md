@@ -268,10 +268,14 @@ Vultr을 사용하는 경우 기본 View Console 로 접속하고 종료해도 �
 실행중인 RPA프로그램을 종료하고 설치하세요.
 {% endhint %}
 
-## 영웅문 자동로그인이 안됩니다.
+## 영웅문 자동로그인이 안됩니다. 공동인증서 첫번째로만 로그인 됩니다.
 
 {% hint style="warning" %}
-우선 RPA에 로그인 비밀번호가 정상적으로 입력됬는지 확인하세요. 정상적으로 입력되었다면, 설정 > 일반/화면 에서 딜레이를 영웅문Global 로그인 대기 2, 영웅문Global 실행 대기 5 정도로 변경하고 다시 시도하십시오.
+우선 RPA에 로그인 비밀번호가 정상적으로 입력됬는지 확인하세요.&#x20;
+
+[https://fragilememor.gitbook.io/kskyj-rpa-kium/issue\_solved/antivirus](https://fragilememor.gitbook.io/kskyj-rpa-kium/issue\_solved/antivirus)
+
+설정을 확인하세요.
 
 계속 안되는 경우 설정 > 일반/화면 에서 ㅁ\[OLD]영웅문 Global 로그인을 체크하세요. 단 해당 기능은 윈도우 화면 배율 100% 에서만 동작하고, 로그인시 자동팝업에 체크 되어 있어야 합니다.
 {% endhint %}

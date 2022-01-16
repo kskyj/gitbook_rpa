@@ -13,9 +13,10 @@
 ## #1 영웅문 로그인에서 간편인증/공동인증서 선택 및  매번 입력 해제
 
 * 간편인증 또는 공동인증서 선택(ID, 모의투자 선택 하면 안됨)
+* 체크 : XX인증 자동 팝업
 * 체크해제 : XX인증 매번 입력
 
-![](<.gitbook/assets/image (106) (1).png>)
+![](<.gitbook/assets/image (102).png>)
 
 ## #2 영웅문 Global 계좌번호 저장 및 보안설정
 
@@ -40,7 +41,7 @@
 
 이제 세팅은 끝났습니다. 바탕화면의 지니RPA를 실행하고 아래 퀵사용가이드를 참고하세요.
 
-![](<.gitbook/assets/image (102) (1).png>)
+![](<.gitbook/assets/image (102) (1) (1).png>)
 
 {% content-ref url="quick_guide.md" %}
 [quick\_guide.md](quick\_guide.md)

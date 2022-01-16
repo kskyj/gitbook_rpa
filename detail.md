@@ -4,7 +4,7 @@ description: 화면의 기능에 대해 설명합니다.
 
 # 화면 기능 설명
 
-![클릭해서 크게보세요](<.gitbook/assets/image (102) (1) (1).png>)
+![클릭해서 크게보세요](<.gitbook/assets/image (102) (1) (1) (1).png>)
 
 ### 투자금 현황 관리
 
