@@ -1,6 +1,6 @@
 # config.ini의 종목 추가/삭제 확인
 
-![](<../../.gitbook/assets/image (21).png>)
+![](broken-reference)
 
 위의 메시지와 함께 종목가져오기가 안되는 경우 config.ini 파일의 ticker 종목을 수정합니다.
 
