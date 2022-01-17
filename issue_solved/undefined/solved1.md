@@ -24,5 +24,5 @@
 
 4\. HTS구성설정 > 화면배색/스타일 설정 **기본설정값으로** 변경 후 적용
 
-![](<../../.gitbook/assets/image (20).png>)
+![](broken-reference)
 

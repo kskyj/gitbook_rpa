@@ -6,7 +6,7 @@
 
 1\. 2223 적고 해외주식 일괄주문 이동
 
-![](<../../.gitbook/assets/image (15).png>)
+![](broken-reference)
 
 
 
