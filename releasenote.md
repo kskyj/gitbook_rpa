@@ -1,8 +1,25 @@
 # 릴리즈 노트
 
-## \[v2.9.2] 2022-01-18
+## \[v2.9.3] 2022-01-19
 
-[https://cafe.naver.com/infinitebuying/28471](https://cafe.naver.com/infinitebuying/28471)
+[https://cafe.naver.com/infinitebuying/31116](https://cafe.naver.com/infinitebuying/31116)
+
+#### **새기능**
+
+* 스마트비서
+  * 스마트알림 : 매수 중단, 매도 중단 종목 표시
+* 미체결 원장주문 체결 사용안하는 옵션 추가
+
+#### **기능개선 / 버그수정**
+
+* 투자금 현황관리
+  * 일 매수시도금액, 가용투자금현황 공식변경 : (실제 매수 개수 x 매수가격) 합산(매수중단 제외)
+* 종목 가져오기 시 예수금 항상 조회하도록 변경
+
+
+## \[v2.9.2] 2022-01-19
+
+[https://cafe.naver.com/infinitebuying/31116](https://cafe.naver.com/infinitebuying/31116)
 
 #### **새기능**
 
