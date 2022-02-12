@@ -70,7 +70,7 @@
 
 ## 윈도우 사용자 계정 컨트롤 때문에 자동으로 넘어가지 않습니다.
 
-![](<.gitbook/assets/image (7).png>)
+![](<.gitbook/assets/image (7) (1).png>)
 
 {% hint style="info" %}
 1. 윈도우10 사용자 계정 컨트롤 설정 끄기를 진행하세요.(네이버/구글 검색)
@@ -336,7 +336,7 @@ Vultr을 사용하는 경우 기본 View Console 로 접속하고 종료해도 �
 
 ## 투자금 미사용, 초과 알림을 끄고 싶습니다.
 
-![](.gitbook/assets/image.png)
+![](<.gitbook/assets/image (24).png>)
 
 {% hint style="info" %}
 가용 투자금 알림기능은 투자금을 사용하지 않거나 초과하고 있으면 경고를 해주는 기능입니다. 불필요한 경우 설정 > 스마트비서 에서 위의 설정대로 값을 늘리면 됩니다.
