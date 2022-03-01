@@ -41,5 +41,5 @@
 {% hint style="success" %}
 프로그램은 라오어님 무한매수법 까페 > 자동프로그램게시판 에서 지니22 아이디로 검색하면 다운로드 받을수 있습니다.
 
-[https://cafe.naver.com/infinitebuying/28471](https://cafe.naver.com/infinitebuying/28471)
+[https://cafe.naver.com/ArticleSearchList.nhn?search.clubid=30372164\&search.searchdate=all\&search.searchBy=3\&search.query=%C1%F6%B4%CF22\&search.defaultValue=1\&search.sortBy=date](https://cafe.naver.com/ArticleSearchList.nhn?search.clubid=30372164\&search.searchdate=all\&search.searchBy=3\&search.query=%C1%F6%B4%CF22\&search.defaultValue=1\&search.sortBy=date)
 {% endhint %}
