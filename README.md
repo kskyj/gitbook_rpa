@@ -43,11 +43,11 @@
 
 * Mobile
 
-[https://m.cafe.naver.com/ca-fe/web/cafes/30372164/search?q=%EC%A7%80%EB%8B%8822\&mi=27\&ta=WRITER\&pc=ALL\&od=NEW](https://m.cafe.naver.com/ca-fe/web/cafes/30372164/search?q=%EC%A7%80%EB%8B%8822\&mi=27\&ta=WRITER\&pc=ALL\&od=NEW)
+[https://m.cafe.naver.com/ca-fe/web/cafes/30372164/members/JI\_R2wggs9eT48\_WegPLGQ/articles](https://m.cafe.naver.com/ca-fe/web/cafes/30372164/members/JI\_R2wggs9eT48\_WegPLGQ/articles)
 
 
 
 * PC
 
-[https://cafe.naver.com/ArticleSearchList.nhn?search.clubid=30372164\&search.searchdate=all\&search.searchBy=3\&search.query=%C1%F6%B4%CF22\&search.defaultValue=1\&search.sortBy=date\&search.menuid=27](https://cafe.naver.com/ArticleSearchList.nhn?search.clubid=30372164\&search.searchdate=all\&search.searchBy=3\&search.query=%C1%F6%B4%CF22\&search.defaultValue=1\&search.sortBy=date\&search.menuid=27)
+[https://cafe.naver.com/ca-fe/cafes/30372164/members/JI\_R2wggs9eT48\_WegPLGQ](https://cafe.naver.com/ca-fe/cafes/30372164/members/JI\_R2wggs9eT48\_WegPLGQ)
 {% endhint %}
