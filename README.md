@@ -49,5 +49,5 @@
 
 * PC
 
-[https://cafe.naver.com/ArticleSearchList.nhn?search.clubid=30372164\&search.searchdate=all\&search.searchBy=3\&search.query=%C1%F6%B4%CF22\&search.defaultValue=1\&search.sortBy=date](https://cafe.naver.com/ArticleSearchList.nhn?search.clubid=30372164\&search.searchdate=all\&search.searchBy=3\&search.query=%C1%F6%B4%CF22\&search.defaultValue=1\&search.sortBy=date)
+[https://cafe.naver.com/ArticleSearchList.nhn?search.clubid=30372164\&search.searchdate=all\&search.searchBy=3\&search.query=%C1%F6%B4%CF22\&search.defaultValue=1\&search.sortBy=date\&search.menuid=27](https://cafe.naver.com/ArticleSearchList.nhn?search.clubid=30372164\&search.searchdate=all\&search.searchBy=3\&search.query=%C1%F6%B4%CF22\&search.defaultValue=1\&search.sortBy=date\&search.menuid=27)
 {% endhint %}
