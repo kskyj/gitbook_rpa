@@ -4,7 +4,7 @@ description: >-
   메일,카카오톡으로 보내줍니다.
 ---
 
-# Full Automatic Mode(완전 자동화) 설정 및 응용
+# ♾ Full Automatic Mode(완전 자동화) 설정 및 응용
 
 ## Full Automatic Mode(완전 자동화) 시연
 
