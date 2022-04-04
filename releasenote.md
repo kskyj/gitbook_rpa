@@ -2,7 +2,7 @@
 
 ## \[v2.10.3] 2022-04-04
 
-[https://cafe.naver.com/infinitebuying/37425](https://cafe.naver.com/infinitebuying/37425)
+[https://cafe.naver.com/infinitebuying/38546](https://cafe.naver.com/infinitebuying/38546)
 
 #### **새기능**
 
