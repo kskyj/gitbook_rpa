@@ -2,7 +2,7 @@
 
 1\. 기능 > 종합환경설정 이동
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (2).png>)
 
 
 
