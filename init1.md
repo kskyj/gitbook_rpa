@@ -1,4 +1,4 @@
-# 1⃣ 1⃣ \[필독]처음 설정하기
+# 1⃣ \[필독]처음 설정하기
 
 ## #0 영웅문 Global 로그인 설치(설치 안했을 경우)
 
@@ -10,7 +10,7 @@
 
 ![](<.gitbook/assets/image (31).png>)
 
-## #1 영웅문 로그인에서 간편인증/공동인증서 선택 및  매번 입력 해제
+## #1 영웅문 로그인에서 간편인증/공동인증서 선택 및 매번 입력 해제
 
 * 간편인증 또는 공동인증서 선택(ID, 모의투자 선택 하면 안됨)
 * 체크 : XX인증 자동 팝업
@@ -24,7 +24,7 @@
 
 #### **1. 기능 > 종합환경설정 이동**
 
-****![](https://gblobscdn.gitbook.com/assets%2F-MZ-Y7H8lCWI22Yo\_bhV%2F-MZTEoY7sSwRc\_THQwd0%2F-MZTGyXVtpwwo9AEgjRl%2Fimage.png?alt=media\&token=3a700c3a-0ad7-4b80-83a9-74e623036405)
+\*\*\*\*![](https://gblobscdn.gitbook.com/assets%2F-MZ-Y7H8lCWI22Yo\_bhV%2F-MZTEoY7sSwRc\_THQwd0%2F-MZTGyXVtpwwo9AEgjRl%2Fimage.png?alt=media\&token=3a700c3a-0ad7-4b80-83a9-74e623036405)
 
 ​
 
@@ -33,11 +33,9 @@
 * 계좌별 비밀번호 입력(회색 네모부분 옆)
 * 체크 : 다음 접속시에도 저장된 비밀번호 유지하여 계속 사용
 * 체크해제: 멀티로그인(동시접속) 팝업알림 해제
-* 체크해제:  메모리 보안 적용 해제
+* 체크해제: 메모리 보안 적용 해제
 
-![](<.gitbook/assets/image (104) (2) (1).png>)
-
-
+![](<.gitbook/assets/image (104) (2) (2).png>)
 
 이제 세팅은 끝났습니다. 바탕화면의 지니RPA를 실행하고 아래 퀵사용가이드를 참고하세요.
 
