@@ -1,11 +1,11 @@
 # Table of contents
 
 * [🤖 라오어님 무한매수법 스마트 RPA \[지니RPA\] 소개](README.md)
-* [1⃣ \[필독\]처음 설정하기](init1.md)
+* [1⃣ 1⃣ \[필독\]처음 설정하기](init1.md)
 * [🕹 \[필독\]퀵사용가이드](quick\_guide.md)
 * [❓ \[필독\]자주하는 질문(FAQ)](faq.md)
 * [📖 \[필수\]화면 기능 설명](detail.md)
-* [🧑🤝🧑 🧑🤝🧑 여러계좌 여러사람 편리하게 쓰는 \[다계좌/자동화\] 다인용 런처](launcher.md)
+* [🧑🤝🧑 🧑🤝🧑 🧑🤝🧑 여러계좌 여러사람 편리하게 쓰는 \[다계좌/자동화\] 다인용 런처](launcher.md)
 * [📃 릴리즈 노트](releasenote.md)
 * [📝 소프트웨어 최종사용자 사용권 계약서/이용약관(EULA)](eula.md)
 
@@ -21,7 +21,7 @@
 * [윈도우 전원설정 고성능으로 변경](issue\_solved/solved4.md)
 * [백신 예외 설정(사용하는 백신에 따라 다름)](issue\_solved/antivirus.md)
 * [영웅문 글로벌(HTS)알림 제거](issue\_solved/hts.md)
-* [전체 딜레이 설정](issue\_solved/undefined.md)
+* [동작 대기 딜레이 조절 및 전체 딜레이 설정](issue\_solved/undefined.md)
 * [메모리 보안 적용 해제 후 재시작](issue\_solved/memory.md)
 * [프로그램 설치 경로 확인(한글경로 안됨)](issue\_solved/solved6.md)
 * [문제해결(구버젼)](issue\_solved/undefined-1/README.md)
