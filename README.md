@@ -39,15 +39,15 @@
 > #### **편안함에 이르시기를 바랍니다** :smile:****
 
 {% hint style="success" %}
-프로그램은 라오어님 무한매수법 까페 > 자동프로그램게시판 에서 지니22 아이디로 검색하면 다운로드 받을수 있습니다.
+프로그램은 라오어님 무한매수법 까페 > 자동프로그램게시판 에서 작성자 **지니22** 아이디로 작성글 검색하면 다운로드 받을수 있습니다.
 
 * Mobile
 
-[https://m.cafe.naver.com/ca-fe/web/cafes/30372164/members/JI\_R2wggs9eT48\_WegPLGQ/articles](https://m.cafe.naver.com/ca-fe/web/cafes/30372164/members/JI\_R2wggs9eT48\_WegPLGQ/articles)
+[https://m.cafe.naver.com/infinitebuying](https://m.cafe.naver.com/infinitebuying)
 
 
 
 * PC
 
-[https://cafe.naver.com/ca-fe/cafes/30372164/members/JI\_R2wggs9eT48\_WegPLGQ](https://cafe.naver.com/ca-fe/cafes/30372164/members/JI\_R2wggs9eT48\_WegPLGQ)
+[https://cafe.naver.com/infinitebuying](https://cafe.naver.com/infinitebuying)
 {% endhint %}
