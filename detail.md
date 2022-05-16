@@ -133,7 +133,7 @@
 {% endtab %}
 {% endtabs %}
 
-![](<.gitbook/assets/image (34).png>)
+![](<.gitbook/assets/image (34) (1).png>)
 
 * ㅁ 종목 다시 가져오기 : \[1.종목 가져오기 / 자동계산] 동작시 영웅문Global(HTS)에서 종목을 다시 가져오는 기능
 * ㅁ 실현손익 항상 가져오기 : 무조건 실현손익을 조회하는 기능
