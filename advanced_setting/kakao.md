@@ -20,13 +20,13 @@
 
 
 
-4\. 스마트폰 카카오톡에서 죠르디 채널 추가&#x20;
+4\. 스마트폰 카카오톡에서 메일 알리미(구 죠르디) 채널 추가&#x20;
 
 ![](<../.gitbook/assets/image (68).png>)
 
-![죠르디 검색후 선택](<../.gitbook/assets/image (69).png>)
+![메일 알리미(구 죠르디) 검색후 선택](<../.gitbook/assets/image (69).png>)
 
-![죠르디 채널 추가](<../.gitbook/assets/image (70).png>)
+![메일 알리미(구 죠르디) 채널 추가](<../.gitbook/assets/image (70).png>)
 
 
 
