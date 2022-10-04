@@ -1,5 +1,14 @@
 # 📃 릴리즈 노트
 
+## \[v2.11.2] 2022-10-04
+
+[https://cafe.naver.com/infinitebuying/44305](https://cafe.naver.com/infinitebuying/44305)
+#### **기능개선 / 버그수정**
+* 풀오토모드시 공인인증서로 로그인 인식 개선
+* 잔고에 종목 추가되었으나 원금 설정 안되는 종목이 있는 경우 매매 중단 현상 수정
+* 수익률 메시지 최근 1년, 올해년도 설정에 따라 구별
+* 특정상황에서 오류 메시지 팝업 뜨는 현상 개선
+
 ## \[v2.11.1] 2022-08-21
 
 [https://cafe.naver.com/infinitebuying/44305](https://cafe.naver.com/infinitebuying/44305)
