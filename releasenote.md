@@ -1,5 +1,16 @@
 # 📃 릴리즈 노트
 
+## \[v2.11.3] 2022-12-01
+
+[https://cafe.naver.com/infinitebuying/48290](https://cafe.naver.com/infinitebuying/48290)
+
+#### **기능개선 / 버그수정**
+
+* 종목 조회 되지 않더라도 설정 > 저장 버튼 누르면 매매현황판 입력된 대로 무조건 저장
+* 종목추천 동작안하는 현상 수정(finviz 변경문제)
+* 분할매도시 에러나는 현상 수정(finviz 변경문제)
+* 실현손익 당해년도 설정시 이번달 수익 나오지 않는 현상 수정
+
 ## \[v2.11.2] 2022-10-04
 
 [https://cafe.naver.com/infinitebuying/46525](https://cafe.naver.com/infinitebuying/46525)
