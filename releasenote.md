@@ -1,12 +1,34 @@
 # 📃 릴리즈 노트
 
+## \[v2.12.1] 2023-01-29
+[https://cafe.naver.com/infinitebuying/49231](https://cafe.naver.com/infinitebuying/49231)
+#### **기능개선 / 버그수정**
+* 백신 오진 개선
+* 무한매수법 V2.2 일때 두번째 매수 현재가 x 1.15 와 비교하여 작은가격으로 매수하는 공식 추가
+
+## \[v2.12] 2023-01-18
+[https://cafe.naver.com/infinitebuying/49231](https://cafe.naver.com/infinitebuying/49231)
+#### **새기능**
+* 매매현황판
+  * 무한매수법 V2.2 지원
+    * 무한매수법 종류에 V2.2, TLP_V2.2 추가
+    * 진행률에 회차(T) 표시
+    * 하락대비 추가매수 전반전일때 작은매수쪽에 표시
+    * 하락대비 추가매수 후반전일때 큰수매수쪽에 표시
+* 매매기본값
+  * 신규 매수시도가격 현재가 15% -> 10%
+  * 신규매수시에도 하락대비 정액매수를위한 추가매수 수행
+
+#### **기능개선 / 버그수정**
+* 진행률 100% 이하시 매수 자동관리하는 기능 기본값으로 옵션 변경(기존 사용자 영향없고, 신규사용자만 해당됨)
+* 영웅문 실행방법 개선
+* 잔고에 종목이 하나도 없을때 종목 다시가져오기 되서 신규매수 안되는현상 수정
+
+
 ## \[v2.11.4] 2022-12-06
 [https://cafe.naver.com/infinitebuying/48290](https://cafe.naver.com/infinitebuying/48290)
 #### **기능개선 / 버그수정**
 * finviz 변경문제 유연하게 처리
-* 종목추천 동작안하는 현상 수정(finviz 추가 변경문제)
-* 분할매도시 에러나는 현상 수정(finviz 추가 변경문제)
-
 
 ## \[v2.11.3] 2022-12-01
 [https://cafe.naver.com/infinitebuying/48290](https://cafe.naver.com/infinitebuying/48290)
