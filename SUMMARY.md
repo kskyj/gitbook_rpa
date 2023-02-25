@@ -8,7 +8,7 @@
 * [🧑🤝🧑 🧑🤝🧑 🧑🤝🧑 🧑🤝🧑 여러계좌 여러사람 편리하게 쓰는 \[다계좌/자동화\] 다인용 런처](launcher.md)
 * [📃 릴리즈 노트](releasenote.md)
 * [📝 소프트웨어 최종사용자 사용권 계약서/이용약관(EULA)](eula.md)
-* [까페 작성글 모음](undefined.md)
+* [📚 Naver 까페 개발일지 & 업데이트](undefined.md)
 
 ## 고급 설정 <a href="#advanced_setting" id="advanced_setting"></a>
 
