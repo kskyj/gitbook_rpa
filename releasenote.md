@@ -1,7 +1,7 @@
 # 📃 릴리즈 노트
 
 ## \[v2.12.2] 2023-03-29
-[https://cafe.naver.com/infinitebuying/49231](https://cafe.naver.com/infinitebuying/49231)
+[https://cafe.naver.com/infinitebuying/50659](https://cafe.naver.com/infinitebuying/50659)
 #### **새기능**
 * 안전장치
   * 종목 또는 원금을 잘못 설정한 경우 안전장치
