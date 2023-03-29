@@ -95,3 +95,5 @@
 {% embed url="https://cafe.naver.com/infinitebuying/48290" %}
 
 {% embed url="https://cafe.naver.com/infinitebuying/49231" %}
+
+{% embed url="https://cafe.naver.com/infinitebuying/50659" %}
