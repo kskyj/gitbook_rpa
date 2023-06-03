@@ -8,7 +8,11 @@
 
 1. 화면 하단 툴바 제거
 
-![](<../../.gitbook/assets/image (44).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (44).png" alt="">
+
+</div>
 
 
 

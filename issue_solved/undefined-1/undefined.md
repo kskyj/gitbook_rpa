@@ -5,5 +5,9 @@
 * 체크 : XX인증 자동 팝업
 * 체크해제 : XX인증 매번 입력
 
-![](<../../.gitbook/assets/image (33).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (33).png" alt="">
+
+</div>
 

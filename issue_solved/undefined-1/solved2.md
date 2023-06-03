@@ -2,11 +2,15 @@
 
 매수/매도가 실패하는 경우 해당 설정을 확인하세요.
 
-****
+
 
 1\. 2223 적고 해외주식 일괄주문 이동
 
-![](broken-reference)
+<div align="left">
+
+<img src="broken-reference" alt="">
+
+</div>
 
 
 

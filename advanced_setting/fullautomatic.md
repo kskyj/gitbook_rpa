@@ -9,7 +9,7 @@ description: >-
 ## Full Automatic Mode(완전 자동화) 시연
 
 {% embed url="https://youtu.be/yj4iGCGOB3E" %}
-[**https://youtu.be/yj4iGCGOB3E**](https://youtu.be/yj4iGCGOB3E)****
+[**https://youtu.be/yj4iGCGOB3E**](https://youtu.be/yj4iGCGOB3E)
 {% endembed %}
 
 ## 필수사항

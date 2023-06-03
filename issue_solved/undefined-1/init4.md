@@ -8,14 +8,22 @@ RPA가 정상동작을 위해서는 **반드시 관리자 권한으로 실행되
 
 **매번 확인을 해야 될수도 있으므로 아래처럼 설정을 해서 항상 관리자 권한으로 실행하는 것을 권장**합니다.
 
-****
+
 
 **1. 바탕화면의 지니RPA 바로가기에서 마우스 우클릭 후 속성 클릭**
 
-![](<../../.gitbook/assets/image (79).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (79).png" alt="">
+
+</div>
 
 
 
 &#x20;**2.  호환성 > 설정 > 관리자 권한으로 이 프로그램 실행 체크 후 확인**
 
-![](<../../.gitbook/assets/image (11).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (11).png" alt="">
+
+</div>
