@@ -19,7 +19,6 @@
 ## 문제 해결하기 <a href="#issue_solved" id="issue_solved"></a>
 
 * [❗ 에러상황 및 해결](issue\_solved/error\_code.md)
-* [영웅문 2100 메뉴 설정 변경](issue\_solved/2100.md)
 * [윈도우 전원설정 고성능으로 변경](issue\_solved/solved4.md)
 * [백신 예외 설정(사용하는 백신에 따라 다름)](issue\_solved/antivirus.md)
 * [영웅문 글로벌(HTS)알림 제거](issue\_solved/hts.md)
