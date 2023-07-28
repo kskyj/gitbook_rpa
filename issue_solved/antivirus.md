@@ -34,4 +34,6 @@ RPA같은 자동화 도구는 백신에서 바이러스로 오진하는 경우�
 
 ![](<../.gitbook/assets/image (85).png>)
 
-s
+5. **제외 > 파일 선택 후 kskyj\_RPA.exe 선택**
+
+![](<../.gitbook/assets/image (19).png>)

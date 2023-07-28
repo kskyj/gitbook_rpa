@@ -1,6 +1,6 @@
 # 📖 \[필수]화면 기능 설명
 
-![](<.gitbook/assets/image (19).png>)
+![](<.gitbook/assets/image (19) (1).png>)
 
 ### 빠른 실행 도구
 
