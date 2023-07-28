@@ -1,4 +1,4 @@
-# 1⃣ 1⃣ \[필독]처음 설정하기
+# 1⃣ \[필독]처음 설정하기
 
 ## #0 영웅문 Global 로그인 설치(설치 안했을 경우)
 
@@ -36,6 +36,10 @@
 * 체크해제: 메모리 보안 적용 해제
 
 ![](<.gitbook/assets/image (104) (2) (1) (1).png>)
+
+## #3 백신 예외 설정
+
+{% embed url="https://fragilememor.gitbook.io/kskyj-rpa-kium/issue_solved/antivirus" %}
 
 이제 세팅은 끝났습니다. 바탕화면의 지니RPA를 실행하고 아래 퀵사용가이드를 참고하세요.
 
