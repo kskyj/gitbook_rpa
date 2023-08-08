@@ -16,13 +16,21 @@
 
 * 관련 설정 > 추가 전원 설정 이동
 
-![](<../.gitbook/assets/image (27).png>)
+<div data-full-width="true">
+
+<img src="../.gitbook/assets/image (27).png" alt="">
+
+</div>
 
 
 
 * 전원옵션 에서 고성능 또는 최고의 성능 으로 변경
 
-![](<../.gitbook/assets/image (28).png>)
+<div data-full-width="true">
+
+<img src="../.gitbook/assets/image (28).png" alt="">
+
+</div>
 
 
 
