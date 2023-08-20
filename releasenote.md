@@ -4,6 +4,7 @@
 [https://cafe.naver.com/infinitebuying/53474](https://cafe.naver.com/infinitebuying/53474)
 #### **기능개선 / 버그수정**
 * 무한매수법 V2.2 후반전시 매수개수 조금 차이나는 현상 수정
+* 무한매수법 V2.2에서 매도가 비율을 중단 선택 시 에러나는 현상 수정
 
 ## \[v2.14.2] 2023-07-21
 [https://cafe.naver.com/infinitebuying/53052](https://cafe.naver.com/infinitebuying/53052)
