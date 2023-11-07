@@ -257,8 +257,8 @@ kakao.com 메일을 사용해야 하며 RPA가 보내는 모든 메일주소(ksk
 우선 컴퓨터의 메인보드가 지원되야하고, 참고로 국내 노트북은 거의 안됩니다.(그냥 켜놓고 절전모드로 변경하시길 권장합니다.) BIOS 설정을 통해 \[전기신호가 감지될 경우 켜짐 / 특정시간에 켜짐 ] 둘중에 하나는 있어야 합니다. 상세내용은 메뉴얼의 Full Automatic Mode(완전 자동화) 설정 및 응용을 참고하세요.
 {% endhint %}
 
-{% content-ref url="advanced_setting/fullautomatic/" %}
-[fullautomatic](advanced\_setting/fullautomatic/)
+{% content-ref url="advanced_setting/fullautomatic.md" %}
+[fullautomatic.md](advanced\_setting/fullautomatic.md)
 {% endcontent-ref %}
 
 ## 완전자동화(Full Automatic Mode)를 위해 컴퓨터 BIOS설정을 변경하였으나, 윈도우가 안켜집니다.

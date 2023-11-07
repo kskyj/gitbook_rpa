@@ -19,4 +19,4 @@
 
 4\. Gmail설정 버튼 클릭 후 위에서 설정한 gmail 아이디 및 비밀번호 입력
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (3) (2).png>)
