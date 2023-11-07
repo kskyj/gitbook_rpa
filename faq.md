@@ -51,8 +51,8 @@
 * amazon 등의 클라우드 또는 NAS에서 하는경우, 크롬 원격제어를 통해 디스플레이 출력을 해야합니다. 원격제어를 진행하고 원격제어 프로그램에서 접속 종료로 하면 디스플레이 출력이 끊어지므로, 그냥 원격제어 프로그램을 최소화 시켜도 유지됩니다.
 * Vultr의 경우 별도 작업없이 디스플레이 출력이 있습니다.
 * hdmi 더미 플러그등을 구매하여 본체에 장착하여 사용하면 됩니다.
-* 별도 software 로 하는방법도 있습니다. 아래링크 참고하세요
-  *
+* software 로 하는방법도 있습니다. 아래링크 참고하세요
+  * [https://fragilememor.gitbook.io/kskyj-rpa-kium/advanced\_setting/nomonitor](https://fragilememor.gitbook.io/kskyj-rpa-kium/advanced\_setting/nomonitor)
 {% endhint %}
 
 ## **매매현황판의 매수가격** 및 개수 **계산은 어떻게 하나요?**

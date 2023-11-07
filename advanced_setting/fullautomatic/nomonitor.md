@@ -1,4 +1,4 @@
-# 🖥 모니터 없이 디스플레이 생성하는법
+# 🖥 모니터 없이 디스플레이 출력하는법
 
 {% hint style="info" %}
 * 이  프로그램은 디스플레이 출력 좌표를 활용합니다. 그래서 디스플레이 출력(모니터, 원격 등)이 필요합니다.
@@ -24,7 +24,7 @@
 
 <div data-full-width="true">
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="251"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt="" width="251"><figcaption></figcaption></figure>
 
 </div>
 
@@ -32,12 +32,12 @@
 
 
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 2. 식별을 눌러, 실제 모니터가 아닌 가상 화면을 확인합니다.
 
 
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 3. 배율 100%, 해상도를 1920 x 1080 으로 선택합니다.
