@@ -1,7 +1,7 @@
 # Table of contents
 
 * [🤖 라오어님 무한매수법 스마트 RPA \[지니RPA\] 소개](README.md)
-* [1⃣ 1⃣ \[필독\]처음 설정하기](init1.md)
+* [1⃣ 1⃣ 1⃣ \[필독\]처음 설정하기](init1.md)
 * [🕹 \[필독\]퀵사용가이드](quick\_guide.md)
 * [❓ \[필독\]자주하는 질문(FAQ)](faq.md)
 * [📖 \[필수\]화면 기능 설명](detail.md)
@@ -12,7 +12,8 @@
 
 ## 고급 설정 <a href="#advanced_setting" id="advanced_setting"></a>
 
-* [♾ Full Automatic Mode(완전 자동화) 설정 및 응용](advanced\_setting/fullautomatic.md)
+* [♾ Full Automatic Mode(완전 자동화) 설정 및 응용](advanced\_setting/fullautomatic/README.md)
+  * [모니터 없이 디스플레이 생성하는법](advanced\_setting/fullautomatic/undefined.md)
 * [보내는메일(Gmail) 수동 설정](advanced\_setting/gmail.md)
 * [주문분석 카카오톡 알림 받기](advanced\_setting/kakao.md)
 

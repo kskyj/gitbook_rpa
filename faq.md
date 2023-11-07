@@ -44,6 +44,17 @@
 [error\_code.md](issue\_solved/error\_code.md)
 {% endcontent-ref %}
 
+## 모니터 화면을 보면서 하면 잘되는데, 화면없이 완전자동화를 하면 동작을 하지 않습니다.
+
+{% hint style="info" %}
+* 해당 프로그램은 디스플레이 출력 좌표를 활용합니다. 즉 노트북 또는 모니터 연결이 최소 1개는 되어 있어야 합니다.
+* amazon 등의 클라우드 또는 NAS에서 하는경우, 크롬 원격제어를 통해 디스플레이 출력을 해야합니다. 원격제어를 진행하고 원격제어 프로그램에서 접속 종료로 하면 디스플레이 출력이 끊어지므로, 그냥 원격제어 프로그램을 최소화 시켜도 유지됩니다.
+* Vultr의 경우 별도 작업없이 디스플레이 출력이 있습니다.
+* hdmi 더미 플러그등을 구매하여 본체에 장착하여 사용하면 됩니다.
+* 별도 software 로 하는방법도 있습니다. 아래링크 참고하세요
+  *
+{% endhint %}
+
 ## **매매현황판의 매수가격** 및 개수 **계산은 어떻게 하나요?**
 
 {% hint style="info" %}
@@ -246,8 +257,8 @@ kakao.com 메일을 사용해야 하며 RPA가 보내는 모든 메일주소(ksk
 우선 컴퓨터의 메인보드가 지원되야하고, 참고로 국내 노트북은 거의 안됩니다.(그냥 켜놓고 절전모드로 변경하시길 권장합니다.) BIOS 설정을 통해 \[전기신호가 감지될 경우 켜짐 / 특정시간에 켜짐 ] 둘중에 하나는 있어야 합니다. 상세내용은 메뉴얼의 Full Automatic Mode(완전 자동화) 설정 및 응용을 참고하세요.
 {% endhint %}
 
-{% content-ref url="advanced_setting/fullautomatic.md" %}
-[fullautomatic.md](advanced\_setting/fullautomatic.md)
+{% content-ref url="advanced_setting/fullautomatic/" %}
+[fullautomatic](advanced\_setting/fullautomatic/)
 {% endcontent-ref %}
 
 ## 완전자동화(Full Automatic Mode)를 위해 컴퓨터 BIOS설정을 변경하였으나, 윈도우가 안켜집니다.
