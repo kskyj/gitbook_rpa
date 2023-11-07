@@ -13,7 +13,7 @@
 ## 고급 설정 <a href="#advanced_setting" id="advanced_setting"></a>
 
 * [♾ Full Automatic Mode(완전 자동화) 설정 및 응용](advanced\_setting/fullautomatic.md)
-  * [모니터 없이 디스플레이 생성하는법](advanced\_setting/fullautomatic/nomonitor.md)
+* [🖥 모니터 없이 디스플레이 생성하는법](advanced\_setting/nomonitor.md)
 * [보내는메일(Gmail) 수동 설정](advanced\_setting/gmail.md)
 * [주문분석 카카오톡 알림 받기](advanced\_setting/kakao.md)
 
