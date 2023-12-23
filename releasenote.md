@@ -1,5 +1,16 @@
 # 📃 릴리즈 노트
 
+## \[v2.14.7] 2023-12-23
+[https://cafe.naver.com/infinitebuying/55595](https://cafe.naver.com/infinitebuying/55595)
+#### **기능개선 / 버그수정**
+* 잔고에 종목이 하나도 없는 상황에서 소진 후 기존정보로 신규 매수 안되는 현상 수정
+* 진행률 100% 이상일 때 계속매수 안되는 현상 수정
+* 다계좌/자동화 클릭시 현재 상태 자동 저장 되는 현상 제거
+* 다계좌/자동화 [사용자 저장] 시 팝업 알림 표시
+* 영웅문 경로인식 모든 RPA의 Config 업데이트
+* 더 효율적으로 메일 발송
+
+
 ## \[v2.14.6] 2023-11-14
 [https://cafe.naver.com/infinitebuying/54633](https://cafe.naver.com/infinitebuying/54633)
 #### **기능개선 / 버그수정**
