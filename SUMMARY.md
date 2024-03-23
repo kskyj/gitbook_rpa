@@ -1,19 +1,19 @@
 # Table of contents
 
 * [🤖 라오어님 무한매수법 스마트 RPA \[지니RPA\] 소개](README.md)
-* [1⃣ 1⃣ 1⃣ \[필독\]처음 설정하기](init1.md)
-* [🕹 \[필독\]퀵사용가이드](quick\_guide.md)
+* [1️⃣ \[필독\]처음 설정하기](init1.md)
+* [🕹️ \[필독\]퀵사용가이드](quick\_guide.md)
 * [❓ \[필독\]자주하는 질문(FAQ)](faq.md)
 * [📖 \[필수\]화면 기능 설명](detail.md)
-* [🧑🤝🧑 여러계좌 여러사람 편리하게 쓰는 \[다계좌/자동화\] 다인용 런처](launcher.md)
+* [🧑‍🤝‍🧑 여러계좌 여러사람 편리하게 쓰는 \[다계좌/자동화\] 다인용 런처](launcher.md)
 * [📃 릴리즈 노트](releasenote.md)
 * [📝 소프트웨어 최종사용자 사용권 계약서/이용약관(EULA)](eula.md)
 * [📚 Naver 까페 개발일지 & 업데이트](update-link.md)
 
 ## 고급 설정 <a href="#advanced_setting" id="advanced_setting"></a>
 
-* [♾ Full Automatic Mode(완전 자동화) 설정 및 응용](advanced\_setting/fullautomatic.md)
-* [🖥 모니터 없이 디스플레이 출력하는법](advanced\_setting/fullautomatic/nomonitor.md)
+* [♾️ Full Automatic Mode(완전 자동화) 설정 및 응용](advanced\_setting/fullautomatic.md)
+* [🖥️ 모니터 없이 디스플레이 출력하는법](advanced\_setting/fullautomatic/nomonitor.md)
 * [보내는메일(Gmail) 수동 설정](advanced\_setting/gmail.md)
 * [주문분석 카카오톡 알림 받기](advanced\_setting/kakao.md)
 
