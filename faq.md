@@ -393,3 +393,11 @@ Vultr을 사용하는 경우 기본 View Console 로 접속하고 종료해도 �
 
 에 종목을 추가하세요.
 {% endhint %}
+
+## 라오어님 무한매수법 V2.2 SOXL을 하려면 12%로 설정을 해야하는데 어떻게 해야하나요?
+
+{% hint style="info" %}
+[https://cafe.naver.com/infinitebuying/53052](https://cafe.naver.com/infinitebuying/53052)
+
+참고하세요.
+{% endhint %}
