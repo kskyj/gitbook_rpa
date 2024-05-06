@@ -101,3 +101,7 @@
 {% embed url="https://cafe.naver.com/infinitebuying/52481" %}
 
 {% embed url="https://cafe.naver.com/infinitebuying/53052" %}
+
+{% embed url="https://cafe.naver.com/infinitebuying/53474" %}
+
+{% embed url="https://cafe.naver.com/infinitebuying/54040" %}
