@@ -105,3 +105,15 @@
 {% embed url="https://cafe.naver.com/infinitebuying/53474" %}
 
 {% embed url="https://cafe.naver.com/infinitebuying/54040" %}
+
+{% embed url="https://cafe.naver.com/infinitebuying/54633" %}
+
+{% embed url="https://cafe.naver.com/infinitebuying/55595" %}
+
+{% embed url="https://cafe.naver.com/infinitebuying/56090" %}
+
+{% embed url="https://cafe.naver.com/infinitebuying/57535" %}
+
+{% embed url="https://cafe.naver.com/infinitebuying/57841" %}
+
+{% embed url="https://cafe.naver.com/infinitebuying/58030" %}
