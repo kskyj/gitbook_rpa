@@ -1,6 +1,6 @@
-# 1⃣ \[필독]처음 설정하기
+# 1️⃣ \[필독]처음 설정하기
 
-## #0 영웅문 Global 로그인 설치(설치 안했을 경우)
+## 0 영웅문 Global 로그인 설치(설치 안했을 경우)
 
 #### 1. 아래 사이트로 이동 하여 영웅문Global 설치
 
@@ -10,7 +10,7 @@
 
 ![](<.gitbook/assets/image (31).png>)
 
-## #1 영웅문 로그인에서 간편인증/공동인증서 선택 및 매번 입력 해제
+## 1 영웅문 로그인에서 간편인증/공동인증서 선택 및 매번 입력 해제
 
 * 간편인증 또는 공동인증서 선택(ID, 모의투자 선택 하면 안됨)
 * 체크 : XX인증 자동 팝업
@@ -18,17 +18,29 @@
 
 ![](<.gitbook/assets/image (102).png>)
 
-## #2 영웅문 Global 계좌번호 저장 및 보안설정
 
-해당 기능은 설정하지 않으면 매번 계좌 비밀번호를 입력하고 오류가 발생 하기 때문에 **반드시** **설정하기를 권장합니다.**
+
+## 2 영웅문 Global 기본환경설정,  계좌번호 저장 및 보안설정
 
 #### **1. 기능 > 종합환경설정 이동**
 
 \*\*\*\*![](https://gblobscdn.gitbook.com/assets%2F-MZ-Y7H8lCWI22Yo\_bhV%2F-MZTEoY7sSwRc\_THQwd0%2F-MZTGyXVtpwwo9AEgjRl%2Fimage.png?alt=media\&token=3a700c3a-0ad7-4b80-83a9-74e623036405)
 
+
+
+
+
+#### **2. 기본환경**
+
+* 검색창에 종목리스트보기
+  * \[체크해제] 종목코드 검색 시 엔터키로 종목리스트 보기
+  * \[체크] 중간어, 종목명 검색 기능 사용
+
+<figure><img src=".gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
+
 ​
 
-#### **2. 보안설정으로 이동후 계좌 비밀번호 입력후 아래 설정후 확인**
+#### **3. 보안설정으로 이동후 계좌 비밀번호 입력후 아래 설정후 확인**
 
 * 계좌별 비밀번호 입력(회색 네모부분 옆)
 * 체크 : 다음 접속시에도 저장된 비밀번호 유지하여 계속 사용
@@ -37,7 +49,9 @@
 
 ![](<.gitbook/assets/image (104) (2) (1) (1).png>)
 
-## #3 백신 예외 설정
+##
+
+## 3 백신 예외 설정
 
 {% embed url="https://fragilememor.gitbook.io/kskyj-rpa-kium/issue_solved/antivirus" %}
 
