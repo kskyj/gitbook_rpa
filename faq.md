@@ -28,6 +28,14 @@
 [detail.md](detail.md)
 {% endcontent-ref %}
 
+## SOXL주문시 ERROR\_CODE(14) 주문검증 실패가 발생합니다.
+
+{% hint style="info" %}
+키움 글로벌이 SOXL이 영국장이 생기면서, 영웅문에서 추가 설정을 해줘야 합니다.
+
+[https://fragilememor.gitbook.io/kskyj-rpa-kium/init1](https://fragilememor.gitbook.io/kskyj-rpa-kium/init1) > 2.영웅문 기본환경 설정을 참고하세요.
+{% endhint %}
+
 ## 주문 불가능한 날입니다, 매도 수량이 없습니다. 투자동의 하십시오 등의 메시지가 나오며, 잔고 가져오기, 매매가 되지 않습니다.
 
 {% hint style="warning" %}
