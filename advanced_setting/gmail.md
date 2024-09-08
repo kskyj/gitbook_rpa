@@ -1,22 +1,46 @@
 # 보내는메일(Gmail) 수동 설정
 
+{% hint style="info" %}
+2022.5.30 이후 GooGle 정책이 변경되어 무조건 2단계 인증을 사용 하고, 앱 비밀번호로 인증해야 합니다.
+{% endhint %}
+
 1. Gmail 없는 경우 google 계정 가입
-2. &#x20;구글 로그인 후 `https://www.google.com/settings/security/lesssecureapps` 접속해서 보안 수준이 낮은 앱의 액세스 사용으로 선택
+2. &#x20;구글 로그인 후 [https://myaccount.google.com/security](https://myaccount.google.com/security) 접속해서 2단계 인증 사용
 
-{% embed url="https://www.google.com/settings/security/lesssecureapps" %}
+<figure><img src="../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
 
-![](<../.gitbook/assets/image (88).png>)
-
-일반사용자는 위의 설정만 하면되며, 2차인증을 구글계정에 한경우 어플리케이션 비밀번호를 발급하고, 그것을 비밀번호대신 넣으세요.
+<figure><img src="../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
 
 
 
-3\. 설정 > 스마트비서 > 보내는메일 계정 수동 선택
+3. Google 계정 페이지에서 검색에서  "앱" 입력후 앱  비밀번호 선택
+
+<figure><img src="../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
+
+
+
+4. 다시 로그인 후 앱 비밀번호 추가
+
+<figure><img src="../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
+
+
+
+5. 앱 비밀번호 만들기
+
+<figure><img src="../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>
+
+
+
+6\. 설정 > 스마트비서 > 보내는메일 계정 수동 선택
 
 ![](<../.gitbook/assets/image (10).png>)
 
 
 
-4\. Gmail설정 버튼 클릭 후 위에서 설정한 gmail 아이디 및 비밀번호 입력
+7\. Gmail설정 버튼 클릭 후 위에서 설정한 gmail 아이디 및 앱비밀번호 입력
 
-![](<../.gitbook/assets/image (3) (2).png>)
+{% hint style="warning" %}
+앱 비밀번호는 공백을 제외하고 16자리를 입력해야 합니다
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/image (97).png" alt=""><figcaption></figcaption></figure>
