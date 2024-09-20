@@ -1,6 +1,38 @@
 # 📃 릴리즈 노트
 
 
+## \[v2.17.2] 2024-09-18
+[https://cafe.naver.com/infinitebuying/63049](https://cafe.naver.com/infinitebuying/63049)
+#### **기능개선 / 버그수정**
+* 매매시 영국종목 선택되어 있을때 처리
+* 매도 안정화
+
+
+## \[v2.17.1] 2024-09-14
+[https://cafe.naver.com/infinitebuying/63049](https://cafe.naver.com/infinitebuying/63049)
+#### **기능개선 / 버그수정**
+* 매수가 없을때 에러나던 현상 수정
+
+
+## \[v2.17] 2024-09-13
+[https://cafe.naver.com/infinitebuying/63049](https://cafe.naver.com/infinitebuying/63049)
+#### **새기능**
+* 매매법종류 IBS법 추가
+* 매매법종류 V3.0 추가
+* MOC매도 시 기존 현재가 -14% 에서 실제 MOC매도로 변경
+* 메일에 무조건 매매현황판, 하락대비 추가매수 표시
+* 주문확인에 매매거부 표시
+#### **기능개선 / 버그수정**
+
+* 신규매수시 종가떨사 인경우 종가떨사 매수가격으로 매매
+* 로그파일 30일치 남기고 자동삭제
+* 매수 주문거부방지 현재가 25% > 15% 변경
+* 타이틀바에 이름 잘보이도록 이모지 추가
+* 1개씩 매매에서 매도는 적용하지 않고 매수만 적용
+* 영웅문 특정상황 종료되는 현상 제거
+* 매매 안정화 개선
+
+
 ## \[v2.16.2] 2024-05-15
 [https://cafe.naver.com/infinitebuying/58771](https://cafe.naver.com/infinitebuying/58771)
 #### **기능개선 / 버그수정**

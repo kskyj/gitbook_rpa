@@ -117,3 +117,9 @@
 {% embed url="https://cafe.naver.com/infinitebuying/57841" %}
 
 {% embed url="https://cafe.naver.com/infinitebuying/58030" %}
+
+{% embed url="https://cafe.naver.com/infinitebuying/58771" %}
+
+{% embed url="https://cafe.naver.com/infinitebuying/59608" %}
+
+{% embed url="https://cafe.naver.com/infinitebuying/63049" %}
