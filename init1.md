@@ -1,4 +1,4 @@
-# 1️⃣ \[필독]처음 설정하기
+# 1️⃣ 1️⃣ \[필독]처음 설정하기
 
 ## 0 영웅문 Global 로그인 설치(설치 안했을 경우)
 
@@ -44,7 +44,7 @@
 * 주문, 잔고설정
   * \[체크해제] 주문버튼 Enter키/Space키 주문 사용안함
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 
 

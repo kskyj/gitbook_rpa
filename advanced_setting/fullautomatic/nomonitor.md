@@ -24,7 +24,7 @@
 
 <div data-full-width="true">
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="251"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="251"><figcaption></figcaption></figure>
 
 </div>
 
@@ -32,12 +32,12 @@
 
 
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2. 식별을 눌러, 실제 모니터가 아닌 가상 화면을 확인합니다.
 
 
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. 배율 100%, 해상도를 1920 x 1080 으로 선택합니다.
