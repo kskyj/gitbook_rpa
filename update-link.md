@@ -123,3 +123,7 @@
 {% embed url="https://cafe.naver.com/infinitebuying/59608" %}
 
 {% embed url="https://cafe.naver.com/infinitebuying/63049" %}
+
+{% embed url="https://cafe.naver.com/infinitebuying/64205" %}
+
+{% embed url="https://cafe.naver.com/infinitebuying/65083" %}
