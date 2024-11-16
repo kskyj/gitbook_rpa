@@ -1,9 +1,9 @@
 # Table of contents
 
 * [🤖 키움 해외주식 스마트 RPA \[지니RPA\] 소개](README.md)
-* [1️⃣ 1️⃣ 1️⃣ \[필독\]처음 설정하기](init1.md)
+* [1️⃣ \[필독\]처음 설정하기](init1.md)
 * [🕹️ \[필독\]퀵사용가이드](quick\_guide.md)
-* [📖 \[필수\]화면 기능 설명](detail.md)
+* [📖 \[필수\]기능 설명](detail.md)
 * [❓ \[필독\]자주하는 질문(FAQ)](faq.md)
 * [🧑‍🤝‍🧑 여러계좌 여러사람 편리하게 쓰는 \[다계좌/자동화\] 다인용 런처](launcher.md)
 * [📃 릴리즈 노트](releasenote.md)
