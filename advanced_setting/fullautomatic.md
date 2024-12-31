@@ -4,7 +4,7 @@ description: >-
   메일,카카오톡으로 보내줍니다.
 ---
 
-# ♾ Full Automatic Mode(완전 자동화) 설정 및 응용
+# ♾️ Full Automatic Mode(완전 자동화) 설정 및 응용
 
 ## Full Automatic Mode(완전 자동화) 시연
 
@@ -29,7 +29,7 @@ Vultr 경우 기본 View Console을 사용하면 관계 없습니다.
 
 ## 완전자동화 스마트 자동 등록 &#x20;
 
-![클ㅣ클릭해서 크게 보기](../.gitbook/assets/완전자동화세팅\_\_.gif)
+![클ㅣ클릭해서 크게 보기](../.gitbook/assets/완전자동화세팅__.gif)
 
 Full Automatic Mode(완전자동화) 등록시 다인용 런처에 설정된 내역으로 설정한 시간에 따라 사용자 순차대로 자동으로 동작합니다.
 
@@ -56,7 +56,24 @@ Full Automatic Mode(완전자동화) 등록시 다인용 런처에 설정된 내
 컴퓨터를 자동으로 켜지게 하는 경우 컴퓨터 켜지는 시간과 자동화 작업 시작시간을 5분정도 여유를 두도록 설정하십시오.
 {% endhint %}
 
-##
+
+
+## 조회모드 등록방법
+
+{% hint style="info" %}
+이미 등록된 지니RPA 스케줄러를 복사해서 시간만 변경하는것으로, 등록된 지니RPA 스케줄러가 필요합니다.
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/retrieve_mode.gif" alt=""><figcaption></figcaption></figure>
+
+1. 작업 스케줄러 실행
+2. 지니 RPA 내보내기 실행
+3. 작업가져오기
+4. 시간 변경
+
+
+
+
 
 ## 고급설정
 
