@@ -58,7 +58,7 @@ Full Automatic Mode(완전자동화) 등록시 다인용 런처에 설정된 내
 
 
 
-## 조회모드 등록방법
+## 조회모드 등록방법 <a href="#retrieve_mode" id="retrieve_mode"></a>
 
 {% hint style="info" %}
 이미 등록된 지니RPA 스케줄러를 복사해서 시간만 변경하는것으로, 등록된 지니RPA 스케줄러가 필요합니다.
