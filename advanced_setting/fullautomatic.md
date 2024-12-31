@@ -6,7 +6,7 @@ description: >-
 
 # ♾️ Full Automatic Mode(완전 자동화) 설정 및 응용
 
-## Full Automatic Mode(완전 자동화) 시연
+## 이Full Automatic Mode(완전 자동화) 시연
 
 {% embed url="https://youtu.be/yj4iGCGOB3E" %}
 [**https://youtu.be/yj4iGCGOB3E**](https://youtu.be/yj4iGCGOB3E)
@@ -68,10 +68,17 @@ Full Automatic Mode(완전자동화) 등록시 다인용 런처에 설정된 내
 
 1. 작업 스케줄러 실행
 2. 지니 RPA 내보내기 실행
-3. 작업가져오기
-4. 시간 변경
+3. 작업가져오기로 지니RPA\_조회 등록
+4. 지니RPA\_조회시간 변경
+5. 예약된 시작시간을 놓친 경우 가능한 대로 빨리 작업 시작 체크 해제
 
 
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="warning" %}
+조회모드 시간이 지나고 실행되면 실제 매매가 될 수 있으므로, \[예약된 시작 시간을 놓친 경우 가능한 대로 빨리 작업 시작] 은 체크 해제 하세요.
+{% endhint %}
 
 
 
