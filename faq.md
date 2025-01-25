@@ -6,8 +6,8 @@
 아래 처음 설정하기 반드시 하고, 아래 퀵가이드 참고하면 됩니다. 이 FAQ도 참고하세요 :smile:
 {% endhint %}
 
-{% content-ref url="init1.md" %}
-[init1.md](init1.md)
+{% content-ref url="init1/" %}
+[init1](init1/)
 {% endcontent-ref %}
 
 {% content-ref url="faq.md" %}
@@ -49,7 +49,7 @@
 {% endhint %}
 
 {% content-ref url="issue_solved/error_code.md" %}
-[error\_code.md](issue\_solved/error\_code.md)
+[error\_code.md](issue_solved/error_code.md)
 {% endcontent-ref %}
 
 ## 모니터 화면을 보면서 하면 잘되는데, 화면없이 완전자동화를 하면 동작을 하지 않습니다.
@@ -60,7 +60,7 @@
 * Vultr의 경우 별도 작업없이 디스플레이 출력이 있습니다.
 * hdmi 더미 플러그등을 구매하여 본체에 장착하여 사용하면 됩니다.
 * software 로 하는방법도 있습니다. 아래링크 참고하세요
-  * [https://fragilememor.gitbook.io/kskyj-rpa-kium/advanced\_setting/nomonitor](https://fragilememor.gitbook.io/kskyj-rpa-kium/advanced\_setting/nomonitor)
+  * [https://fragilememor.gitbook.io/kskyj-rpa-kium/advanced\_setting/nomonitor](https://fragilememor.gitbook.io/kskyj-rpa-kium/advanced_setting/nomonitor)
 {% endhint %}
 
 ## **매매현황판의 매수가격** 및 개수 **계산은 어떻게 하나요?**
@@ -168,7 +168,7 @@ LOC매수 주문거부가 되지 않도록 현재가 +15%와 비교해서 작은
 {% endhint %}
 
 {% content-ref url="issue_solved/antivirus.md" %}
-[antivirus.md](issue\_solved/antivirus.md)
+[antivirus.md](issue_solved/antivirus.md)
 {% endcontent-ref %}
 
 ## 매매현황판의 전일/금일 매매 개수가 맞지 않습니다.
@@ -217,7 +217,7 @@ kakao.com 메일을 사용해야 하며 RPA가 보내는 모든 메일주소(ksk
 
 ## 계속 이메일 연결 실패라고 나옵니다.
 
-![](.gitbook/assets/화면\_캡처\_2022-02-14\_215649.png)
+![](.gitbook/assets/화면_캡처_2022-02-14_215649.png)
 
 {% hint style="warning" %}
 지메일 2차 인증사용도 안했는데도, 계속 위와같이 에러가 발생하면, 윈도우 > 제어판 > 시스템 > 정보 에서 컴퓨터 이름이 한글로 되어 있다면 영문으로 변경해주세요.
@@ -266,7 +266,7 @@ kakao.com 메일을 사용해야 하며 RPA가 보내는 모든 메일주소(ksk
 {% endhint %}
 
 {% content-ref url="advanced_setting/fullautomatic.md" %}
-[fullautomatic.md](advanced\_setting/fullautomatic.md)
+[fullautomatic.md](advanced_setting/fullautomatic.md)
 {% endcontent-ref %}
 
 ## 완전자동화(Full Automatic Mode)를 위해 컴퓨터 BIOS설정을 변경하였으나, 윈도우가 안켜집니다.
@@ -308,7 +308,7 @@ Vultr을 사용하는 경우 기본 View Console 로 접속하고 종료해도 �
 {% hint style="warning" %}
 우선 RPA에 로그인 비밀번호가 정상적으로 입력됬는지 확인하세요.
 
-[https://fragilememor.gitbook.io/kskyj-rpa-kium/issue\_solved/antivirus](https://fragilememor.gitbook.io/kskyj-rpa-kium/issue\_solved/antivirus)
+[https://fragilememor.gitbook.io/kskyj-rpa-kium/issue\_solved/antivirus](https://fragilememor.gitbook.io/kskyj-rpa-kium/issue_solved/antivirus)
 
 설정을 확인하세요.
 

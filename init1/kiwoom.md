@@ -1,14 +1,14 @@
-# 1️⃣ 1️⃣ \[필독]처음 설정하기
+# 키움 증권
 
 ## 0 영웅문 Global 로그인 설치(설치 안했을 경우)
 
-#### 1. 아래 사이트로 이동 하여 영웅문Global 설치
+#### 아래 사이트로 이동 하여 영웅문Global 설치
 
 {% embed url="https://download.kiwoom.com/herog_custom/KiwoomGlobalSetup.exe" %}
 클릭해서 다운로드 후 설치
 {% endembed %}
 
-![](<.gitbook/assets/image (31).png>)
+![](<../.gitbook/assets/image (31).png>)
 
 
 
@@ -18,7 +18,7 @@
 * 체크 : XX인증 자동 팝업
 * 체크해제 : XX인증 매번 입력
 
-![](<.gitbook/assets/image (102).png>)
+![](<../.gitbook/assets/image (102).png>)
 
 
 
@@ -26,7 +26,7 @@
 
 #### **1. 기능 > 종합환경설정 이동**
 
-\*\*\*\*![](https://gblobscdn.gitbook.com/assets%2F-MZ-Y7H8lCWI22Yo\_bhV%2F-MZTEoY7sSwRc\_THQwd0%2F-MZTGyXVtpwwo9AEgjRl%2Fimage.png?alt=media\&token=3a700c3a-0ad7-4b80-83a9-74e623036405)
+\*\*\*\*![](https://gblobscdn.gitbook.com/assets%2F-MZ-Y7H8lCWI22Yo_bhV%2F-MZTEoY7sSwRc_THQwd0%2F-MZTGyXVtpwwo9AEgjRl%2Fimage.png?alt=media\&token=3a700c3a-0ad7-4b80-83a9-74e623036405)
 
 
 
@@ -44,7 +44,7 @@
 * 주문, 잔고설정
   * \[체크해제] 주문버튼 Enter키/Space키 주문 사용안함
 
-<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -55,7 +55,7 @@
 * \[체크해제] 멀티로그인(동시접속) 팝업알림 해제
 * \[체크해제] 메모리 보안 적용 해제
 
-![](<.gitbook/assets/image (104) (2) (1) (1).png>)
+![](<../.gitbook/assets/image (104) (2) (1) (1).png>)
 
 
 
@@ -67,8 +67,8 @@
 
 이제 세팅은 끝났습니다. 바탕화면의 지니RPA를 실행하고 아래 퀵사용가이드를 참고하세요.
 
-![](<.gitbook/assets/image (102) (1) (1).png>)
+![](<../.gitbook/assets/image (102) (1) (1).png>)
 
-{% content-ref url="quick_guide.md" %}
-[quick\_guide.md](quick\_guide.md)
+{% content-ref url="../quick_guide.md" %}
+[quick\_guide.md](../quick_guide.md)
 {% endcontent-ref %}
