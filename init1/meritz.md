@@ -12,13 +12,19 @@
 
 ## 1 공동인증서 발급 또는 기존에 사용중인 인증서 가져오기
 {% hint style="warning" %}
+공동인증서 무료로 발급해도 전혀 문제 없습니다.
+{% endhint %}
+
+{% hint style="warning" %}
 메리츠증권 자동매매는 현재 `공동인증서`만 지원합니다.
-키움증권의 공동인증서를 메리츠증권에서 사용가능 합니다.(타기관 인증서 등록 이용)
+`키움증권`의 공동인증서를 `메리츠증권에서 사용가능` 합니다.(타기관 인증서 등록 이용)
 {% endhint %}
 
 * 메리츠 증권 또는 타기관에서 발급한 공동인증서가 없을 경우, 아래 인증센터로 이동하여 공동인증서 발급
   * [https://home.imeritz.com/cust/athn/AthnCntr.do](https://home.imeritz.com/cust/athn/AthnCntr.do)
-* 타기관에서 발급한 공동인증서가 있을 경우, 아래 타기관 인증서 등록
+* 메리츠 증권은 신규 발급하면 클라우드 인증서로 발급 됩니다. 클라우드 인증서를 `인증서 내려받기`클릭하여 PC로 다운로드 하세요.
+  * [https://home.imeritz.com/cust/athn/CloudAthnCntr.do](https://home.imeritz.com/cust/athn/CloudAthnCntr.do)
+* 타기관(키움증권 등)에서 발급한 공동인증서가 있을 경우, 아래 타기관 인증서 등록
   * [https://home.imeritz.com/cust/athn/OthrPbcrReg.do](https://home.imeritz.com/cust/athn/OthrPbcrReg.do)
 
 <figure><img src="../.gitbook/assets/image (105).png" alt=""><figcaption></figcaption></figure>
