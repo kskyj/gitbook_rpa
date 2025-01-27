@@ -1,6 +1,6 @@
 # 키움 증권
 
-## 0 영웅문 Global 로그인 설치(설치 안했을 경우)
+## 0 영웅문 Global 로그인 설치
 
 #### 아래 사이트로 이동 하여 영웅문Global 설치
 
@@ -10,9 +10,19 @@
 
 ![](<../.gitbook/assets/image (31).png>)
 
+## 1 간편인증서/공동인증서 발급 또는 기존에 사용중인 인증서 가져오기
+
+* 공동인증서
+  * 타기관에서&#x20;
+    * [https://home.imeritz.com/cust/athn/AthnCntr.do](https://home.imeritz.com/cust/athn/AthnCntr.do)
+  * 타기관에서 발급한 공동인증서가 있을 경우, 아래 타기관 인증서 등록
+    * [https://home.imeritz.com/cust/athn/OthrPbcrReg.do](https://home.imeritz.com/cust/athn/OthrPbcrReg.do)
 
 
-## 1 영웅문 로그인에서 간편인증/공동인증서 선택 및 매번 입력 해제
+
+
+
+## 2 영웅문 로그인에서 간편인증/공동인증서 선택 및 매번 입력 해제
 
 * 간편인증 또는 공동인증서 선택(ID, 모의투자 선택 하면 안됨)
 * 체크 : XX인증 자동 팝업
@@ -22,7 +32,7 @@
 
 
 
-## 2 영웅문 Global 기본환경설정,  계좌번호 저장 및 보안설정
+## 3 영웅문 Global 기본환경설정,  계좌번호 저장 및 보안설정
 
 #### **1. 기능 > 종합환경설정 이동**
 
@@ -61,7 +71,7 @@
 
 
 
-## 3 백신 예외 설정
+## 4 백신 예외 설정
 
 {% embed url="https://fragilememor.gitbook.io/kskyj-rpa-kium/issue_solved/antivirus" %}
 
