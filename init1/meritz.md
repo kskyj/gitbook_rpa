@@ -11,6 +11,10 @@
 
 
 ## 1 공동인증서 발급 또는 기존에 사용중인 인증서 가져오기
+{% hint style="warning" %}
+메리츠증권 자동매매는 현재 `공동인증서`만 지원합니다.
+키움증권의 공동인증서를 메리츠증권에서 사용가능 합니다.(타기관 인증서 등록 이용)
+{% endhint %}
 
 * 메리츠 증권 또는 타기관에서 발급한 공동인증서가 없을 경우, 아래 인증센터로 이동하여 공동인증서 발급
   * [https://home.imeritz.com/cust/athn/AthnCntr.do](https://home.imeritz.com/cust/athn/AthnCntr.do)
@@ -20,8 +24,6 @@
 <figure><img src="../.gitbook/assets/image (105).png" alt=""><figcaption></figcaption></figure>
 
 메리츠 HTS에서 로그인 클릭하면 위와 같이 인증서 목록이 보이면 됩니다.
-
-
 
 
 

@@ -11,13 +11,15 @@
 ![](<../.gitbook/assets/image (31).png>)
 
 ## 1 간편인증서/공동인증서 발급 또는 기존에 사용중인 인증서 가져오기
+{% hint style="warning" %}
+키움증권 자동매매는 현재 `간편인증`과 `공동인증서`를 지원합니다. 특별한 사유가 없는 경우 보안이 더 좋은 `간편인증` 사용을 권장합니다.
+{% endhint %}
 
-* 공동인증서
-  * 타기관에서&#x20;
-    * [https://home.imeritz.com/cust/athn/AthnCntr.do](https://home.imeritz.com/cust/athn/AthnCntr.do)
-  * 타기관에서 발급한 공동인증서가 있을 경우, 아래 타기관 인증서 등록
-    * [https://home.imeritz.com/cust/athn/OthrPbcrReg.do](https://home.imeritz.com/cust/athn/OthrPbcrReg.do)
+* 간편인증 [https://www1.kiwoom.com/h/customer/cert/VCertCenterSimpleAuthInfoView?dummyVal=0](https://www1.kiwoom.com/h/customer/cert/VCertCenterSimpleAuthInfoView?dummyVal=0)
 
+* 공동인증서 [https://www1.kiwoom.com/h/customer/cert/VPublicCertCenterView?dummyVal=0](https://www1.kiwoom.com/h/customer/cert/VPublicCertCenterView?dummyVal=0)
+  * 키움 증권 또는 타기관에서 발급한 공동인증서가 없을 경우, 인증센터로 이동하여 공동인증서 발급
+  * 타기관에서 발급한 공동인증서가 있을 경우, 인증센터에서 인증서 등록
 
 
 
