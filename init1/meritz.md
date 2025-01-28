@@ -11,11 +11,11 @@
 
 
 ## 1 공동인증서 발급 또는 기존에 사용중인 인증서 가져오기
-{% hint style="warning" %}
+{% hint style="info" %}
 공동인증서 무료로 발급해도 전혀 문제 없습니다.
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="info" %}
 메리츠증권 자동매매는 현재 `공동인증서`만 지원합니다.
 `키움증권`의 공동인증서를 `메리츠증권에서 사용가능` 합니다.(타기관 인증서 등록 이용)
 {% endhint %}
@@ -30,6 +30,9 @@
 <figure><img src="../.gitbook/assets/image (105).png" alt=""><figcaption></figcaption></figure>
 
 메리츠 HTS에서 로그인 클릭하면 위와 같이 인증서 목록이 보이면 됩니다.
+{% hint style="success" %}
+RPA에 설정 시 사용하는 인증서 순서는 맨위가 1번이고, 현재 선택된 것은 6번 입니다.
+{% endhint %}
 
 
 

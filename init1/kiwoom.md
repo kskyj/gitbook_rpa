@@ -11,11 +11,11 @@
 ![](<../.gitbook/assets/image (31).png>)
 
 ## 1 간편인증서/공동인증서 발급 또는 기존에 사용중인 인증서 가져오기
-{% hint style="warning" %}
+{% hint style="info" %}
 공동인증서 무료로 발급해도 전혀 문제 없습니다.
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="info" %}
 키움증권 자동매매는 현재 `간편인증`과 `공동인증서`를 지원합니다. 특별한 사유가 없는 경우 보안이 더 좋은 `간편인증` 사용을 권장합니다.
 {% endhint %}
 
