@@ -1,3 +1,7 @@
+---
+icon: circle-envelope
+---
+
 # 보내는메일(Gmail) 수동 설정
 
 {% hint style="info" %}
