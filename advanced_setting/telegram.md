@@ -29,9 +29,9 @@ icon: telegram
 3\. botfather 대화창에 3가지 입력
 - /newbot 명령어 실행
 - 대화방 봇 이름 지정 (지니RPA 또는 원하는것)
-- 봇이름 영문으로 작성, 중복 허용 안되며 마지막에 _bot 들어가야함함
+- 봇이름 영문으로 작성, 중복 허용 안되며 마지막에 _bot 들어가야함
 
-4\. 위의 3가지 명령어를 다 했다면, 빨간색 네모를 클릭하면 Token을 확인한다.
+4\. 위의 3가지 명령어를 다 했다면, 빨간색 네모를 클릭하면 Token을 확인
 
 ### UserInfoBot 을 통해 사용자 아이디 확인 
 
@@ -52,7 +52,7 @@ icon: telegram
 ![](<../.gitbook/assets/telegram/output/genie_telegram_1.png>)
 
 1\. 설정 > 스마트비서 > 주문 후 매매내역 텔레그램 알림 체크
-2\. 텔레그램 설정 클릭릭
+2\. 텔레그램 설정 클릭
 
 ![](<../.gitbook/assets/telegram/output/genie_telegram_2.png>)
 
