@@ -6,4 +6,4 @@
 너무 높게 설정할경우 느리기 때문에 1.0 이하 값으로 설정하세요.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>

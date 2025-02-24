@@ -1,4 +1,4 @@
-# 🤖 해외주식 스마트 RPA \[지니RPA] 소개
+# 🤖 해외주식 스마트 자동매매 \[지니RPA] 소개
 
 이 프로그램은 해외주식을 HTS에서 **스마트하게 자동으로 매매 해주고 투자금, 예수금, 신규 종목 추천, 투자 대비 수익률, 원화주문 설정등을 자동으로 설정 및 관리**해주는 프로그램 입니다.
 
@@ -40,17 +40,7 @@
 > **편안함에 이르시기를 바랍니다** :smile:**\*\*\*\***
 
 {% hint style="success" %}
-프로그램은 라오어님 무한매수법 까페 > 자동프로그램게시판 에서 작성자 **지니22** 아이디로 작성글 검색하면 다운로드 및 설명을 볼 수 있습니다. 또는 아래 직접 다운로드를 선택하세요.
-
-* Mobile
-
-[https://m.cafe.naver.com/infinitebuying](https://m.cafe.naver.com/infinitebuying)
-
-* PC
-
-[https://cafe.naver.com/infinitebuying](https://cafe.naver.com/infinitebuying)
-
-* 직접 다운로드
+프로그램 다운로드
 
 [https://github.com/kskyj/RPA\_AutoUpdate/releases/download/latest/kskyj\_RPA\_Setup.exe](https://github.com/kskyj/RPA_AutoUpdate/releases/download/latest/kskyj_RPA_Setup.exe)
 {% endhint %}
