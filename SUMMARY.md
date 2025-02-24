@@ -19,6 +19,7 @@
 * [보내는메일(Gmail) 수동 설정](advanced_setting/gmail.md)
 * [주문분석 카카오톡 알림 받기](advanced_setting/kakao.md)
 * [텔레그램 알림 설정](advanced_setting/telegram.md)
+* [구글(Google)시트 설정](advanced_setting/google_sheet.md)
 
 ## 문제 해결하기 <a href="#issue_solved" id="issue_solved"></a>
 
