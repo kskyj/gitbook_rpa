@@ -21,7 +21,7 @@ icon: telegram
 
 2\. botfather 검색
 
-{% hint style="warning" %}
+{% hint style="danger" %}
 동일, 유사한 이름이 많으므로 가이드에 보이는 아이콘 선택
 {% endhint %}
 
@@ -65,6 +65,10 @@ icon: telegram
 
 3\. 이동한 봇 에 아무말이나 걸어주기
 
+
+
+
+
 ### 지니 RPA에 입력 및 테스트
 
 ![](../.gitbook/assets/telegram/output/genie_telegram_1.png)
@@ -77,4 +81,6 @@ icon: telegram
 
 ![](../.gitbook/assets/telegram/output/telegram_test.png)
 
-4\. `테스트` 버튼을 클릭하여 텔레그램에 알람 왔는지 확인 5. `저장후 닫기` 버튼을 클릭하여 저장
+4\. `테스트` 버튼을 클릭하여 텔레그램에 알람 왔는지 확인
+
+5\. `저장후 닫기` 버튼을 클릭하여 저장
