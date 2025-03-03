@@ -6,9 +6,9 @@ description: 핵심기능만 간단히 설명
 
 ### 프로그램 실행
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-설치하면 바탕화면에 자동으로 `지니 RPA` 아이콘이 생성됩니다. 해당 아이콘을 마우스로 클릭하세요.
+설치하면 바탕화면에 자동으로 `지니 RPA(Genie)` 아이콘이 생성됩니다. 해당 아이콘을 마우스로 클릭하세요.
 
 &#x20;
 
@@ -17,6 +17,8 @@ description: 핵심기능만 간단히 설명
 {% hint style="info" %}
 HTS, 인증서, 계좌 설정을 하는 것으로 변동사항이 없으면 최초 1번만 설정 하면 됩니다.
 {% endhint %}
+
+<figure><img src=".gitbook/assets/password.gif" alt="" width="563"><figcaption></figcaption></figure>
 
 1. 바탕화면의 지니 RPA 실행
 2. 설정 > 일반 / 화면 > 개인화
@@ -50,6 +52,10 @@ HTS, 인증서, 계좌 설정을 하는 것으로 변동사항이 없으면 최�
 
 즉, 종목 정보를 가지고 와서, 매매현황판의 원금, 매매법 종류, 원금분할을 변경하면 자동으로 계산 합니다.
 {% endhint %}
+
+
+
+
 
 ### 처음 이후 실행
 
