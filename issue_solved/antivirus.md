@@ -45,6 +45,8 @@ RPA같은 자동화 도구는 백신에서 바이러스로 오진하는 경우�
 
 * C:\kskyj\_RPA
 * C:\kskyj\_RPA\download
+* C:\Genie\_RPA
+* C:\Genie\_RPA\download
 * 인터넷 브라우저파일 다운로드 경로(최초 설치시 kskyj\_RPA\_vxxxx\_Setup.exe 파일이 지워 지는 경우 설정하세요) > 보안상 안전하지 않기 때문에 RPA 설치후 해당 경로는 제외에서 제거하세요.
 
 
@@ -56,6 +58,7 @@ RPA같은 자동화 도구는 백신에서 바이러스로 오진하는 경우�
 아래 파일을 지정합니다.
 
 * **C:\kskyj\_RPA.exe**
+* C:\Genie\_RPA.exe
 
 
 
@@ -84,7 +87,7 @@ RPA같은 자동화 도구는 백신에서 바이러스로 오진하는 경우�
 
 
 
-5. kskyj\_RPA.exe 입력 후 추가
+5. kskyj\_RPA.exe, Genie\_RPA.exe 입력 후 추가
 
 <figure><img src="../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
 
