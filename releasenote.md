@@ -1,6 +1,63 @@
 # 📃 릴리즈 노트
 
 
+## \[v3.0.2] 2025-03-06
+[https://cafe.naver.com/infinitebuying/69266](https://cafe.naver.com/infinitebuying/69266)
+#### **기능개선 / 버그수정**
+- 메리츠 HTS 메뉴 인식 성능 처리 개선
+- 메시지 개선
+
+
+## \[v3.0.1] 2025-03-05
+[https://cafe.naver.com/infinitebuying/69266](https://cafe.naver.com/infinitebuying/69266)
+#### **기능개선 / 버그수정**
+- 인증서 비밀번호 일부 특수문자 입력 안되는 현상 처리
+- 자동메일 오류 처리
+- 실행 시 무반응 처리
+
+
+## \[v3.0] 2025-03-03
+[https://cafe.naver.com/infinitebuying/69266](https://cafe.naver.com/infinitebuying/69266)
+#### **새기능**
+- 메리츠 증권 자동매매 지원
+  - 메리츠 증권 HTS 실행
+  - 보유 종목 가져오기
+  - 예수금 가져오기
+  - 매수 주문
+  - 매도 주문
+- 비밀번호 관리 기능 추가
+  - 인증서 비밀번호 관리
+  - 계좌 비밀번호 관리
+  - 비밀번호 설정파일에 저장하지 않고 OS에 저장 하여 보안 강화
+- 매매현황판
+  - 잔고 가져온 종목만 보이도록 컴팩트하게 바꿈
+  - 하락대비 추가매수 컬럼추가하여 더 편하게 알 수 있도록 지원
+  - HTS의 잔고의 종목별 수익률 표시
+- 매매안전장치 강화
+  - 잔고의 수익률이 설정한 매도가비율보다 높은 경우
+  - 종목별 설정한 원금보다 매입금액이 클경우
+- 텔레그램 알림 추가
+- 인스톨러 변경
+- 신규 설치시 kskyj_RPA에서 설정 가져오기 기능
+
+
+## \[v2.18.2] 2025-02-28
+[https://cafe.naver.com/infinitebuying/69160](https://cafe.naver.com/infinitebuying/69160)
+#### **기능개선 / 버그수정**
+- 예수금 조회 실패 시 0이 아닌 "조회 실패"로 표시되도록 변경
+- 간편인증/공동인증서 최대 20개까지 지원
+- 카카오톡 알림(메일) 자동 설정 처리 방식 개선
+- 업데이트 시 설치 중 지니RPA가 종료되지 않을 경우 강제 종료하도록 수정
+- 휴장일 이후 신규 매수 시 에러 팝업 발생 문제 해결
+- 프로그램 실행시 먹통 현상 수정
+
+
+## \[v2.18.1] 2024-11-15
+[https://cafe.naver.com/infinitebuying/65083](https://cafe.naver.com/infinitebuying/65083)
+#### **기능개선 / 버그수정**
+- 장중매도 시 장중매수 입력대로 처리되는 현상 수정
+
+
 ## \[v2.18] 2024-11-11
 [https://cafe.naver.com/infinitebuying/65083](https://cafe.naver.com/infinitebuying/65083)
 #### **새기능**
