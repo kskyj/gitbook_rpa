@@ -26,7 +26,7 @@
 * [❗ 에러상황 및 해결](issue_solved/error_code.md)
 * [윈도우 전원설정 고성능으로 변경](issue_solved/solved4.md)
 * [관리자 권한 실행](issue_solved/administrator.md)
-* [사용자 계정 컨트롤 설정 변경](issue_solved/undefined.md)
+* [사용자 계정 컨트롤 설정 변경](issue_solved/uac.md)
 * [백신 예외 설정(사용하는 백신에 따라 다름)](issue_solved/antivirus.md)
 * [영웅문 글로벌(HTS)알림 제거](issue_solved/hts.md)
 * [동작 대기 딜레이 조절](issue_solved/delay.md)
