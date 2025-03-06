@@ -81,6 +81,23 @@
 
 {% embed url="https://fragilememor.gitbook.io/kskyj-rpa-kium/issue_solved/antivirus" %}
 
+
+## 5 관리자 권한으로 실행처리
+
+{% content-ref url="../issue_solved/administrator.md" %}
+[administrator.md](../issue_solved/administrator.md)
+{% endcontent-ref %}
+
+
+
+## 6 사용자 계정 컨트롤 설정 변경
+
+{% content-ref url="../issue_solved/uac.md" %}
+[uac.md](../issue_solved/uac.md)
+{% endcontent-ref %}
+
+
+
 이제 세팅은 끝났습니다. 바탕화면의 지니RPA를 실행하고 아래 퀵사용가이드를 참고하세요.
 
 ![](<../.gitbook/assets/image (102) (1) (1).png>)
@@ -88,3 +105,4 @@
 {% content-ref url="../quick_guide.md" %}
 [quick\_guide.md](../quick_guide.md)
 {% endcontent-ref %}
+
