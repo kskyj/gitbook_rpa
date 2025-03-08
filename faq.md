@@ -63,30 +63,13 @@
   * [https://fragilememor.gitbook.io/kskyj-rpa-kium/advanced\_setting/nomonitor](https://fragilememor.gitbook.io/kskyj-rpa-kium/advanced_setting/nomonitor)
 {% endhint %}
 
-## **매매현황판의 매수가격** 및 개수 **계산은 어떻게 하나요?**
-
-{% hint style="info" %}
-* V2 (40분할), TLP\_V2(30분할)
-  * 평단 LOC : \[평단]과 \[현재가 +15%] 비교하여 작은가격
-  * 큰수 LOC : \[평단 +5%]과 \[현재가 +15%] 비교하여 작은가격
-* V1 (40분할), TLP\_V1 (30분할)
-  * 평단 LOC : \[평단]과 \[현재가 +15%] 비교하여 작은가격
-  * 큰수 LOC : \[평단 +10%]과 \[현재가 +15%] 비교하여 작은가격
-
-※ 현재가 +15% 는 현재가 x 1.15, 평단 +5% | +10%는 평단 x 1.05 | 1.10 입니다.
-{% endhint %}
-
-{% hint style="danger" %}
-LOC매수 주문거부가 되지 않도록 현재가 +15%와 비교해서 작은값으로 매수합니다.
-{% endhint %}
 
 ## 윈도우 사용자 계정 컨트롤 때문에 자동으로 넘어가지 않습니다.
 
 ![](<.gitbook/assets/image (7) (1) (1).png>)
 
 {% hint style="info" %}
-1. 윈도우10 사용자 계정 컨트롤 설정 끄기를 진행하세요.(네이버/구글 검색)
-2. PC를 재부팅하고 다시 시도하면 나오지 않습니다.
+[https://fragilememor.gitbook.io/genie-rpa/issue_solved/uac](https://fragilememor.gitbook.io/genie-rpa/issue_solved/uac)
 {% endhint %}
 
 ## VR과 무한매수법 한계좌에 하고 있어 TQQQ가 자동매매 항목에 들어갑니다. TQQQ매도를 빼거나 안하는 방법은 없나요?
@@ -171,7 +154,7 @@ LOC매수 주문거부가 되지 않도록 현재가 +15%와 비교해서 작은
 [antivirus.md](issue_solved/antivirus.md)
 {% endcontent-ref %}
 
-## 매매현황판의 전일/금일 매매 개수가 맞지 않습니다.
+## 매매현황판의 전일 매매 개수가 맞지 않습니다.
 
 {% hint style="info" %}
 해당정보는 영웅문Global(HTS)의 2150메뉴의 전일/금일 매매한 정보를 가져오는 것으로 매매후 3영업일간 데이터가 표시됩니다. RPA 프로그램에서 따로 계산한것이 아닙니다.
@@ -318,7 +301,7 @@ Vultr을 사용하는 경우 기본 View Console 로 접속하고 종료해도 �
 ## 프로그램 보안상 안전한가요?
 
 {% hint style="success" %}
-제 프로그램은 보안요소 참고([https://cafe.naver.com/infinitebuying/5163](https://cafe.naver.com/infinitebuying/5163))하시고, 지금은 편의상 공인인증서 비밀번호도 저장합니다. 계좌비밀번호는 저장하는것 자체가 없습니다.
+제 프로그램은 보안요소 참고([https://cafe.naver.com/infinitebuying/5163](https://cafe.naver.com/infinitebuying/5163))하시고, 지금은 편의상 공인인증서 비밀번호도 저장합니다. 계좌비밀번호는 저장하는것 자체가 없습니다.(메리츠는 저장합니다)
 
 * 개발자는 비밀번호를 알수 있는가?
 
@@ -332,7 +315,7 @@ Vultr을 사용하는 경우 기본 View Console 로 접속하고 종료해도 �
 
 돈이나 증권을 본인계좌가 아닌 다른계좌로 인출하는건 계좌비밀번호도 알아내야하고, otp등의 별도 추가 인증이 필요합니다.
 
-가장 좋은건 인증방법을 간편인증으로 하는것을 권장합니다. 어떻게던 유출되더라도 지정된 기기에서만 동작하기때문에 추가보안효과가 있습니다.
+가장 좋은건 인증방법을 간편인증으로 하는것을 권장합니다.(메리츠 증권은 간편인증으로 하면 QR 로그인을 해서 자동화가 안됩니다.) 어떻게던 유출되더라도 지정된 기기에서만 동작하기때문에 추가보안효과가 있습니다.
 
 결론은 암호화 저장되있고, 간편인증 권장하며, 유출되도 매수 매도 말고는 할수있는게 없습니다. 개발시 안전은 1순위로 중요하게 생각했던 부분이라 크게 걱정안하셔도 됩니다 :)
 {% endhint %}
@@ -352,26 +335,22 @@ Vultr을 사용하는 경우 기본 View Console 로 접속하고 종료해도 �
 우선 해상도를 높이면 해결됩니다. 해상도를 조절할 수 없는 환경이면, 설정 > 일반/화면 > 글자크기 에서 8\~9정도로 낮추세요. 프로그램 재시작 후 확인하세요.
 {% endhint %}
 
-## 투자금 미사용, 초과 알림을 끄고 싶습니다.
-
-![](<.gitbook/assets/image (24).png>)
-
-{% hint style="info" %}
-가용 투자금 알림기능은 투자금을 사용하지 않거나 초과하고 있으면 경고를 해주는 기능입니다. 불필요한 경우 설정 > 스마트비서 에서 위의 설정대로 값을 늘리면 됩니다.
-{% endhint %}
-
-{% hint style="success" %}
-완전 자동화 동작시에는 옵션값과 관계없이 경고를 보여주지 않습니다.
-{% endhint %}
-
 ## 무한매수법 V2.0, V2.1 사용중인데 매도가 3개가 보이지 않습니다
 
 {% hint style="info" %}
 기본으로 숨겨져 있습니다. 표시를 하려면 설정>일반/ 화면 > (2.0, 2.1)매매현황판에 첫번째 분할 매도표시 체크하십시오. 숨겨져 있더라도 매도는 수행합니다.
 {% endhint %}
 
-## 평단매수, 큰수매수 개수가 이상한것 같습니다.
 
+## 매매현황판의 매수 가격이 어쩔때는 무한매수법 공식과 다른것 같습니다.
+매매공식 계산은 아래링크 참고하세요
+* [https://fragilememor.gitbook.io/genie-rpa/detail#ordermethod](https://fragilememor.gitbook.io/genie-rpa/detail#ordermethod)
+
+{% hint style="danger" %}
+매수시 주문거부가 되지 않도록 현재가 +15%와 비교해서 작은값으로 매수합니다.
+{% endhint %}
+
+## 평단매수, 큰수매수 개수가 이상한것 같습니다.
 {% hint style="info" %}
 매수개수 구하는 방법은 아래를 참고하세요.&#x20;
 
