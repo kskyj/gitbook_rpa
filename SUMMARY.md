@@ -1,7 +1,7 @@
 # Table of contents
 
 * [🤖 해외주식 스마트 자동매매 \[지니RPA\] 소개](README.md)
-* [1️⃣ \[필독\]처음 설정하기](init1/README.md)
+* [1️⃣ 1️⃣ \[필독\]처음 설정하기](init1/README.md)
   * [메리츠 증권](init1/meritz.md)
   * [키움 증권](init1/kiwoom.md)
 * [🕹️ \[필독\]퀵사용가이드](quick_guide.md)
@@ -15,6 +15,7 @@
 ## 고급 설정 <a href="#advanced_setting" id="advanced_setting"></a>
 
 * [♾️ Full Automatic Mode(완전 자동화) 설정 및 응용](advanced_setting/fullautomatic.md)
+* [조회모드 설정](advanced_setting/retrieve.md)
 * [🖥️ 모니터 없이 디스플레이 출력하는법](advanced_setting/fullautomatic/nomonitor.md)
 * [보내는메일(Gmail) 수동 설정](advanced_setting/gmail.md)
 * [주문분석 카카오톡 알림 받기](advanced_setting/kakao.md)
