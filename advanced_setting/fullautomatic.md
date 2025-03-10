@@ -6,28 +6,40 @@ description: >-
 
 # ♾️ Full Automatic Mode(완전 자동화) 설정 및 응용
 
-## 이Full Automatic Mode(완전 자동화) 시연
+## Full Automatic Mode(완전 자동화) 시연
 
 {% embed url="https://youtu.be/yj4iGCGOB3E" %}
 [**https://youtu.be/yj4iGCGOB3E**](https://youtu.be/yj4iGCGOB3E)
 {% endembed %}
 
-## 필수사항
 
-* PC 자동으로 켜지기 (메인보드 설정/스마트플러그/스위치봇등) 또는 PC  끄지 않기
+
+
+
+## 필수사항(사전 준비사항)
+
+* PC 자동으로 켜지기 (메인보드 설정/스마트플러그/스위치봇등) 또는 PC 끄지 않기
 * 윈도우 자동로그인(암호 없이 로그인)
 * 윈도우 사용자계정컨트롤 끄기(영웅문이나 RPA 실행시 확인나오는경우)
 * PC/노트북/가상클라우드 PC(vultr 추천, amazon등)
 
 {% hint style="danger" %}
-가상 클라우드 PC / 서버 호스팅을 사용하는 경우 크롬 원격데스크톱으로 연결 후 접속 종료를 하지 않고 디스플레이를 유지해야 합니다.&#x20;
+가상 클라우드 PC / 서버 호스팅을 사용하는 경우 크롬 원격데스크톱으로 연결 후 접속 종료를 하지 않고 디스플레이를 유지해야 합니다.
 
-mstsc등의 마이크로소프트 Remote Desktop으로 연결하고 정상종료하는 경우 디스플레이가 유지되지 않습니다.&#x20;
+mstsc등의 마이크로소프트 Remote Desktop으로 연결하고 정상종료하는 경우 디스플레이가 유지되지 않습니다.
 
 Vultr 경우 기본 View Console을 사용하면 관계 없습니다.
 {% endhint %}
 
-## 완전자동화 스마트 자동 등록 &#x20;
+{% hint style="success" %}
+AWS Free Tier 로도 동작 가능합니다.
+{% endhint %}
+
+
+
+
+
+## 완전자동화 스마트 자동 등록
 
 ![클ㅣ클릭해서 크게 보기](../.gitbook/assets/완전자동화세팅__.gif)
 
@@ -59,12 +71,35 @@ Full Automatic Mode(완전자동화) 등록시 다인용 런처에 설정된 내
 
 
 
-## 고급설정
 
-### **PC 자동 시작, Full Automatic Mode 설정(홈런타짜 님)**
+## AWS Free Tier 관련 링크
+
+#### **1.** AWS Free Tier 윈도우 서버 생성하기
+
+{% embed url="https://richspy.tistory.com/entry/%EC%95%84%EB%A7%88%EC%A1%B4-AWS-%EC%9C%88%EB%8F%84%EC%9A%B0-%EC%84%9C%EB%B2%84-%EB%AC%B4%EB%A3%8C-%EC%82%AC%EC%9A%A9-%EA%B0%80%EC%9D%B4%EB%93%9C" %}
+
+2. 윈도우10 한글로 변경하기
+
+{% embed url="https://blog.naver.com/hpkoreablog/222431088049" %}
+
+참고. 1년 뒤 AWS Free Tier 삭제하기
+
+{% embed url="https://dev-jwblog.tistory.com/91" %}
+
+{% hint style="success" %}
+AWS Free Tier 는 1년만 무료이고, 새로운 계정을 만들면 Free Tier 생성이 가능합니다.
+{% endhint %}
+
+
+
+
+
+## 사례
+
+#### **1. PC 자동 시작, Full Automatic Mode 설정(홈런타짜 님)**
 
 {% embed url="https://cafe.naver.com/infinitebuying/7667" %}
 
-### 클라우드 컴퓨터에서 실행 vultr\[5$/월]\(NAIL말고 지금 님)
+#### 클라우드 컴퓨터에서 실행 vultr\[5$/월]\(NAIL말고 지금 님)
 
 {% embed url="https://cafe.naver.com/infinitebuying/25556" %}
