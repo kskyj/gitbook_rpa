@@ -72,6 +72,20 @@ Full Automatic Mode(완전자동화) 등록시 다인용 런처에 설정된 내
 
 
 
+
+## 사례
+
+#### **1. PC 자동 시작, Full Automatic Mode 설정(홈런타짜 님)**
+
+{% embed url="https://cafe.naver.com/infinitebuying/7667" %}
+
+#### 클라우드 컴퓨터에서 실행 vultr\[5$/월]\(NAIL말고 지금 님)
+
+{% embed url="https://cafe.naver.com/infinitebuying/25556" %}
+
+
+
+
 ## AWS Free Tier 관련 링크
 
 #### **1.** AWS Free Tier 윈도우 서버 생성하기
@@ -89,17 +103,3 @@ Full Automatic Mode(완전자동화) 등록시 다인용 런처에 설정된 내
 {% hint style="success" %}
 AWS Free Tier 는 1년만 무료이고, 새로운 계정을 만들면 Free Tier 생성이 가능합니다.
 {% endhint %}
-
-
-
-
-
-## 사례
-
-#### **1. PC 자동 시작, Full Automatic Mode 설정(홈런타짜 님)**
-
-{% embed url="https://cafe.naver.com/infinitebuying/7667" %}
-
-#### 클라우드 컴퓨터에서 실행 vultr\[5$/월]\(NAIL말고 지금 님)
-
-{% embed url="https://cafe.naver.com/infinitebuying/25556" %}
