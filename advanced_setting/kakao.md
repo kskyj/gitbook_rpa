@@ -20,17 +20,17 @@ icon: messages
 
 <figure><img src="../.gitbook/assets/image (6).png" alt="" width="375"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 
 
 5.메일에서 `메뉴 > 설정  > 알림 설정 > 관심친구 메일만 선택`(모든 메일 해도 되나 스팸 등 으로 인해 비추천)
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (4).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (5).png" alt="" width="375"><figcaption></figcaption></figure>
 
