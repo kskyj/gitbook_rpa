@@ -75,7 +75,7 @@ Full Automatic Mode(완전자동화) 등록시 다인용 런처에 설정된 내
 
 ## 사례
 
-#### **1. PC 자동 시작, Full Automatic Mode 설정(홈런타짜 님)**
+#### PC 자동 시작, Full Automatic Mode 설정(홈런타짜 님)
 
 {% embed url="https://cafe.naver.com/infinitebuying/7667" %}
 
@@ -92,11 +92,12 @@ Full Automatic Mode(완전자동화) 등록시 다인용 런처에 설정된 내
 
 {% embed url="https://richspy.tistory.com/entry/%EC%95%84%EB%A7%88%EC%A1%B4-AWS-%EC%9C%88%EB%8F%84%EC%9A%B0-%EC%84%9C%EB%B2%84-%EB%AC%B4%EB%A3%8C-%EC%82%AC%EC%9A%A9-%EA%B0%80%EC%9D%B4%EB%93%9C" %}
 
-2. 윈도우10 한글로 변경하기
+
+#### **2.** 윈도우10 한글로 변경하기
 
 {% embed url="https://blog.naver.com/hpkoreablog/222431088049" %}
 
-참고. 1년 뒤 AWS Free Tier 삭제하기
+#### 참고. 1년 뒤 AWS Free Tier 삭제하기
 
 {% embed url="https://dev-jwblog.tistory.com/91" %}
 
