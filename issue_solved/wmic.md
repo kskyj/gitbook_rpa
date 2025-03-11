@@ -9,13 +9,13 @@
 
 
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="191"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt="" width="191"><figcaption></figcaption></figure>
 
 1. 시작 > 마우스 우클릭 > 설정
 
 
 
-<figure><img src="../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 2. 시스템 > 선택적 기능 선택
 
@@ -29,8 +29,10 @@
 
 <figure><img src="../.gitbook/assets/image (3).png" alt="" width="509"><figcaption></figcaption></figure>
 
-{% hint style="info" %}
-설치하는데 시간이 오래 걸립니다.
-{% endhint %}
-
 4\. wmic 검색 체크하고, 다음, 추가 버튼 클릭
+
+
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+5\. wmic 추가됨. 나오면 완료

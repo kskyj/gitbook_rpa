@@ -12,7 +12,7 @@ Google에 로그인 되어 있어야 합니다.
 
 {% embed url="https://drive.google.com/" %}
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * 위의 URL을 클릭하여 Google Drive로 이동 >  신규 > Google 스프레드 시트
 * 또는 기존의 Google 스프레드 시트 선택
@@ -21,7 +21,7 @@ Google에 로그인 되어 있어야 합니다.
 
 ### 2. Google 스프레드 시트에 권한 추가
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * 시트의 오른쪽 상단 공유 클릭
 
