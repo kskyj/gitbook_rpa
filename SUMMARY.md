@@ -1,7 +1,7 @@
 # Table of contents
 
 * [🤖 해외주식 스마트 자동매매 \[지니RPA\] 소개](README.md)
-* [1️⃣ 1️⃣ 1️⃣ \[필독\]처음 설정하기](init1/README.md)
+* [1️⃣ 1️⃣ 1️⃣ 1️⃣ \[필독\]처음 설정하기](init1/README.md)
   * [메리츠 증권](init1/meritz.md)
   * [키움 증권](init1/kiwoom.md)
 * [🕹️ \[필독\]퀵사용가이드](quick_guide.md)
@@ -25,6 +25,7 @@
 ## 문제 해결하기 <a href="#issue_solved" id="issue_solved"></a>
 
 * [❗ 에러상황 및 해결](issue_solved/error_code.md)
+* [wmic 설치](issue_solved/wmic.md)
 * [윈도우 전원설정 고성능으로 변경](issue_solved/solved4.md)
 * [관리자 권한 실행](issue_solved/administrator.md)
 * [사용자 계정 컨트롤 설정 변경](issue_solved/uac.md)
