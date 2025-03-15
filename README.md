@@ -44,5 +44,9 @@
 
 [https://github.com/kskyj/RPA\_AutoUpdate/releases/download/latest\_Genie\_RPA/Genie\_RPA\_Setup.exe](https://github.com/kskyj/RPA_AutoUpdate/releases/download/latest_Genie_RPA/Genie_RPA_Setup.exe)
 
+
+
+키움증권 전용 구버젼(2.x)
+
 [https://github.com/kskyj/RPA\_AutoUpdate/releases/download/latest/kskyj\_RPA\_Setup.exe](https://github.com/kskyj/RPA_AutoUpdate/releases/download/latest/kskyj_RPA_Setup.exe)
 {% endhint %}
