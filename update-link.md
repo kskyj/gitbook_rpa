@@ -24,6 +24,9 @@
 
 {% embed url="https://cafe.naver.com/infinitebuying/14826" %}
 
+{% embed url="https://cafe.naver.com/infinitebuying/69266" %}
+
+
 ### 업데이트(기능 업데이트 설명)
 
 {% embed url="https://cafe.naver.com/infinitebuying/5334" %}
@@ -127,3 +130,5 @@
 {% embed url="https://cafe.naver.com/infinitebuying/64205" %}
 
 {% embed url="https://cafe.naver.com/infinitebuying/65083" %}
+
+{% embed url="https://cafe.naver.com/infinitebuying/69160" %}
