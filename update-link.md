@@ -132,3 +132,7 @@
 {% embed url="https://cafe.naver.com/infinitebuying/65083" %}
 
 {% embed url="https://cafe.naver.com/infinitebuying/69160" %}
+
+{% embed url="https://cafe.naver.com/infinitebuying/69797" %}
+
+{% embed url="https://cafe.naver.com/infinitebuying/70386" %}
