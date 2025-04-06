@@ -63,16 +63,15 @@
   * [https://fragilememor.gitbook.io/kskyj-rpa-kium/advanced\_setting/nomonitor](https://fragilememor.gitbook.io/kskyj-rpa-kium/advanced_setting/nomonitor)
 {% endhint %}
 
-
 ## 윈도우 사용자 계정 컨트롤 때문에 자동으로 넘어가지 않습니다.
 
 ![](<.gitbook/assets/image (7) (1) (1).png>)
 
 {% hint style="info" %}
-[https://fragilememor.gitbook.io/genie-rpa/issue_solved/uac](https://fragilememor.gitbook.io/genie-rpa/issue_solved/uac)
+[https://fragilememor.gitbook.io/genie-rpa/issue\_solved/uac](https://fragilememor.gitbook.io/genie-rpa/issue_solved/uac)
 {% endhint %}
 
-## VR과 무한매수법 한계좌에 하고 있어 TQQQ가 자동매매 항목에 들어갑니다. TQQQ매도를 빼거나 안하는 방법은 없나요?
+## VR과 무한매수법 한계좌에 하고 있어 TQQQ가 자동매매 항목에 들어갑니다. TQQQ매매를 빼거나 안하는 방법은 없나요? 즉 특정종목을 제외하고 싶습니다.
 
 ![](<.gitbook/assets/image (98).png>)
 
@@ -341,9 +340,10 @@ Vultr을 사용하는 경우 기본 View Console 로 접속하고 종료해도 �
 기본으로 숨겨져 있습니다. 표시를 하려면 설정>일반/ 화면 > (2.0, 2.1)매매현황판에 첫번째 분할 매도표시 체크하십시오. 숨겨져 있더라도 매도는 수행합니다.
 {% endhint %}
 
-
 ## 매매현황판의 매수 가격이 어쩔때는 무한매수법 공식과 다른것 같습니다.
+
 매매공식 계산은 아래링크 참고하세요
+
 * [https://fragilememor.gitbook.io/genie-rpa/detail#ordermethod](https://fragilememor.gitbook.io/genie-rpa/detail#ordermethod)
 
 {% hint style="danger" %}
@@ -351,8 +351,9 @@ Vultr을 사용하는 경우 기본 View Console 로 접속하고 종료해도 �
 {% endhint %}
 
 ## 평단매수, 큰수매수 개수가 이상한것 같습니다.
+
 {% hint style="info" %}
-매수개수 구하는 방법은 아래를 참고하세요.&#x20;
+매수개수 구하는 방법은 아래를 참고하세요.
 
 [https://cafe.naver.com/infinitebuying/39081](https://cafe.naver.com/infinitebuying/39081)
 {% endhint %}
