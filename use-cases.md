@@ -2,7 +2,7 @@
 
 ## 사이클 끝나고, 신규매수 하는법 <a href="#new-buy" id="new-buy"></a>
 
-### 1. 소진 후 기존정보로 신규매수(추천) - Plus Edition
+### 1. 소진 후 기존정보로 신규매수(추천)
 
 ![alt text](.gitbook/assets/usecase/image1.png)
 
@@ -16,7 +16,7 @@
 * 수동으로 일매수시도 금액 만큼 매수하거나, 1개 매수해서 잔고에 종목이 있도록 합니다.(지정가 매수 등등)
 * 잔고에 종목이 존재하면 자동으로 가져오고, 자동계산을 수행합니다.
 
-### 3. 신규 매수 기능 - Plus Edition (지원예정)
+### 3. 신규 매수 기능 (지원예정)
 
 ![alt text](.gitbook/assets/usecase/image_new_1.png)
 
