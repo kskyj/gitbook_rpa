@@ -6,7 +6,7 @@ description: 핵심기능만 간단히 설명
 
 ### 프로그램 실행
 
-<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 설치하면 바탕화면에 자동으로 `지니 RPA(Genie)` 아이콘이 생성됩니다. 해당 아이콘을 마우스로 클릭하세요.
 
