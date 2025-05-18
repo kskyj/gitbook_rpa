@@ -8,8 +8,6 @@ icon: '1'
 증권사 별로 1번만 설정 해야 합니다
 {% endhint %}
 
-
-
 {% content-ref url="meritz.md" %}
 [meritz.md](meritz.md)
 {% endcontent-ref %}
@@ -18,3 +16,6 @@ icon: '1'
 [kiwoom.md](kiwoom.md)
 {% endcontent-ref %}
 
+{% content-ref url="../quick_guide.md" %}
+[quick\_guide.md](../quick_guide.md)
+{% endcontent-ref %}
