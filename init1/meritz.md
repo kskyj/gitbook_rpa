@@ -41,11 +41,23 @@ RPA에 설정 시 사용하는 인증서 순서는 맨위가 1번이고, 현재 
 
 <figure><img src="../.gitbook/assets/image (104).png" alt=""><figcaption></figcaption></figure>
 
-## 3 백신 예외 설정
+
+
+## 3 메리츠 통합환경설정 확인
+
+{% hint style="danger" %}
+기본 설정값이 '비밀번호 저장하지 않음'으로 되어 있습니다. 별도로 변경하지 않았다면 그대로 두시면 됩니다.
+{% endhint %}
+
+* 설정 > 통합환경설정 > 비밀번호/보안설정 > 계좌 비밀번호 저장 > 비밀번호 저장하지 않음 선택
+
+<figure><img src="../.gitbook/assets/image (109).png" alt=""><figcaption></figcaption></figure>
+
+## 4 백신 예외 설정
 
 {% embed url="https://fragilememor.gitbook.io/kskyj-rpa-kium/issue_solved/antivirus" %}
 
-## 4 관리자 권한으로 실행처리
+## 5 관리자 권한으로 실행처리
 
 {% content-ref url="../issue_solved/administrator.md" %}
 [administrator.md](../issue_solved/administrator.md)
