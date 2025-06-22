@@ -30,6 +30,6 @@
 
 ### 매매현황판 초기화
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (7).png>)
 
 * 신규 종목 추가하고나서, 필요하지않을경우  초기화를통해 제거할 수 있습니다.
