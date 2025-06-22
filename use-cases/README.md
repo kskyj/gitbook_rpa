@@ -7,3 +7,7 @@
 {% content-ref url="order-report.md" %}
 [order-report.md](order-report.md)
 {% endcontent-ref %}
+
+{% content-ref url="profit-report.md" %}
+[profit-report.md](profit-report.md)
+{% endcontent-ref %}
