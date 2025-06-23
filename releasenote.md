@@ -1,6 +1,12 @@
 # 📃 릴리즈 노트
 
 
+## \[v3.3.1] 2025-06-23
+[https://cafe.naver.com/infinitebuying/72415](https://cafe.naver.com/infinitebuying/72415)
+#### **기능개선 / 버그수정**
+- 실현손익 없는 경우 에러나는 현상 수정
+- 키움증권 특정환경 실현손익 조회 인식 개선
+
 ## \[v3.3] 2025-06-22
 [https://cafe.naver.com/infinitebuying/72415](https://cafe.naver.com/infinitebuying/72415)
 #### **새기능**
