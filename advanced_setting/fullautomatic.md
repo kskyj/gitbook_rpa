@@ -4,17 +4,13 @@ description: >-
   메일,카카오톡으로 보내줍니다.
 ---
 
-# ♾️ Full Automatic Mode(완전 자동화) 설정 및 응용
+# Full Automatic Mode(완전 자동화) 설정 및 응용
 
 ## Full Automatic Mode(완전 자동화) 시연
 
 {% embed url="https://youtu.be/yj4iGCGOB3E" %}
 [**https://youtu.be/yj4iGCGOB3E**](https://youtu.be/yj4iGCGOB3E)
 {% endembed %}
-
-
-
-
 
 ## 필수사항(사전 준비사항)
 
@@ -32,10 +28,8 @@ Vultr 경우 기본 View Console을 사용하면 관계 없습니다.
 {% endhint %}
 
 {% hint style="success" %}
-AWS Free Tier 로도 동작 가능합니다.
+별도 도구 없이 메인보드의 설정으로 특정시간에 PC를 On할 수 있습니다.
 {% endhint %}
-
-
 
 
 
@@ -70,9 +64,6 @@ Full Automatic Mode(완전자동화) 등록시 다인용 런처에 설정된 내
 
 
 
-
-
-
 ## 사례
 
 #### PC 자동 시작, Full Automatic Mode 설정(홈런타짜 님)
@@ -85,13 +76,15 @@ Full Automatic Mode(완전자동화) 등록시 다인용 런처에 설정된 내
 
 
 
-
 ## AWS Free Tier 관련 링크
+
+{% hint style="success" %}
+AWS Free Tier 로도 동작 가능합니다.
+{% endhint %}
 
 #### **1.** AWS Free Tier 윈도우 서버 생성하기
 
 {% embed url="https://richspy.tistory.com/entry/%EC%95%84%EB%A7%88%EC%A1%B4-AWS-%EC%9C%88%EB%8F%84%EC%9A%B0-%EC%84%9C%EB%B2%84-%EB%AC%B4%EB%A3%8C-%EC%82%AC%EC%9A%A9-%EA%B0%80%EC%9D%B4%EB%93%9C" %}
-
 
 #### **2.** 윈도우10 한글로 변경하기
 
