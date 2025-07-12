@@ -9,7 +9,7 @@
 
 <figure><img src="../.gitbook/assets/image (110).png" alt=""><figcaption></figcaption></figure>
 
-* 종목 가져오기, 매매매가 완료 되면 프로그램에 주문내역 알림이 자동으로생성됩니다
+* 종목 가져오기, 매매가 완료 되면 프로그램에 주문내역 알림이 자동으로생성됩니다
 
 <figure><img src="../.gitbook/assets/image (111).png" alt=""><figcaption></figcaption></figure>
 
