@@ -1,6 +1,6 @@
-# 🤖 해외주식 스마트 자동매매 \[지니RPA] 소개
+# 해외주식 스마트 RPA \[지니RPA] 소개
 
-이 프로그램은 해외주식을 HTS에서 **스마트하게 자동으로 매매 해주고 투자금, 예수금, 신규 종목 검색, 투자 대비 수익률, 원화주문 설정등을 자동으로 설정 및 관리**해주는 프로그램 입니다.
+이 프로그램은 해외주식을 HTS에서 **스마트하게 자동으로 매매 해주고 투자금, 예수금, 신규 종목 검색, 투자 대비 수익률, 원화주문 설정등을 자동으로 설정 및 관리**해주는 RPA 프로그램 입니다.
 
 현재 지원하는 증권사는 아래와 같습니다.
 
@@ -43,8 +43,6 @@
 프로그램 다운로드
 
 [https://github.com/kskyj/RPA\_AutoUpdate/releases/download/latest\_Genie\_RPA/Genie\_RPA\_Setup.exe](https://github.com/kskyj/RPA_AutoUpdate/releases/download/latest_Genie_RPA/Genie_RPA_Setup.exe)
-
-
 
 키움증권 전용 구버젼(2.x)
 

@@ -1,6 +1,6 @@
 # Table of contents
 
-* [해외주식 스마트 자동매매 \[지니RPA\] 소개](README.md)
+* [해외주식 스마트 RPA \[지니RPA\] 소개](README.md)
 * [\[필독\]처음 설정하기](init1/README.md)
   * [메리츠 증권](init1/meritz.md)
   * [키움 증권](init1/kiwoom.md)
