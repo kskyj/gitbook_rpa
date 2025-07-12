@@ -77,7 +77,7 @@
 [https://fragilememor.gitbook.io/genie-rpa/issue\_solved/uac](https://fragilememor.gitbook.io/genie-rpa/issue_solved/uac)
 {% endhint %}
 
-## VR과 무한매수법 한계좌에 하고 있어 TQQQ가 스마트 RPA 항목에 들어갑니다. TQQQ매매를 빼거나 안하는 방법은 없나요? 즉 특정종목을 제외하고 싶습니다.
+## VR과 무한매수법 한계좌에 하고 있어 TQQQ가 매매 항목에 들어갑니다. TQQQ매매를 빼거나 안하는 방법은 없나요? 즉 특정종목을 제외하고 싶습니다.
 
 ![](<.gitbook/assets/image (98).png>)
 
@@ -85,7 +85,7 @@
 설정 > 매매 기본값 > 매매 제외 종목 에 TQQQ를 추가하세요.
 {% endhint %}
 
-## 스마트 RPA를 하고 싶은 종목 추가는 어떻게 하나요?신규 매매한 종목이 매매현황판에 추가가 안됩니다.
+## 매매를 하고 싶은 종목 추가는 어떻게 하나요?신규 매매한 종목이 매매현황판에 추가가 안됩니다.
 
 ![](<.gitbook/assets/image (99).png>)
 
@@ -226,7 +226,7 @@ kakao.com 메일을 사용해야 하며 RPA가 보내는 모든 메일주소(ksk
 ## **종목가져오기를 실행하면 영웅문 Global(HTS)가 종료됩니다.**
 
 {% hint style="danger" %}
-영웅문 Global(HTS) 가상화면 6번에서 스마트 RPA외에 다른창이 열져 있는 경우 발생할 수 있으며, 수동으로 창을 모두 닫고 시도하세요.
+영웅문 Global(HTS) 가상화면 6번에서 매매외에 다른창이 열려 있는 경우 발생할 수 있으며, 수동으로 창을 모두 닫고 시도하세요.
 {% endhint %}
 
 ## **간헐적으로 실현손익, 예수금이 #N/A로 나오거나 매매가 정상적으로 되지 않습니다.**
