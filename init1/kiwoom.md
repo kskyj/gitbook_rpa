@@ -17,7 +17,7 @@
 {% endhint %}
 
 {% hint style="info" %}
-키움증권 자동매매는 현재 `간편인증`과 `공동인증서`를 지원합니다. 특별한 사유가 없는 경우 보안이 더 좋은 `간편인증` 사용을 권장합니다.
+키움증권 스마트RPA는 현재 `간편인증`과 `공동인증서`를 지원합니다. 특별한 사유가 없는 경우 보안이 더 좋은 `간편인증` 사용을 권장합니다.
 {% endhint %}
 
 * 간편인증 [https://www1.kiwoom.com/h/customer/cert/VCertCenterSimpleAuthInfoView?dummyVal=0](https://www1.kiwoom.com/h/customer/cert/VCertCenterSimpleAuthInfoView?dummyVal=0)
