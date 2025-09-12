@@ -1,6 +1,6 @@
 # 백신 예외 설정(사용하는 백신에 따라 다름)
 
-RPA같은 자동화 도구는 백신에서 바이러스로 오진하는 경우가 있기 때문에 예외를 해야 합니다.&#x20;
+RPA같은 자동화 도구는 백신에서 바이러스로 오진하는 경우가 있기 때문에 예외를 해야 합니다.
 
 {% hint style="info" %}
 아래 설명은 윈도우10 기본 백신에 대한 설명이며 다른 백신의 경우 각 백신 설정에 따라 다릅니다.
@@ -16,8 +16,6 @@ RPA같은 자동화 도구는 백신에서 바이러스로 오진하는 경우�
 
 <figure><img src="../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
 
-
-
 ### 바이러스 및 위협방지 제외
 
 1. **윈도우 > 설정 > 업데이트 및 보안 또는 개인정보 및 보안 > 보안 선택**
@@ -27,13 +25,9 @@ RPA같은 자동화 도구는 백신에서 바이러스로 오진하는 경우�
 
 ![](<../.gitbook/assets/image (82).png>)
 
-
-
 3. **제외 > 제외 추가 또는 제거**
 
 ![](<../.gitbook/assets/image (83).png>)
-
-
 
 4. **제외사항 추가 > 폴더 선택 > RPA폴더 지정하고 \[폴더 선택]**
 
@@ -49,8 +43,6 @@ RPA같은 자동화 도구는 백신에서 바이러스로 오진하는 경우�
 * C:\Genie\_RPA\download
 * 인터넷 브라우저파일 다운로드 경로(최초 설치시 kskyj\_RPA\_vxxxx\_Setup.exe 파일이 지워 지는 경우 설정하세요) > 보안상 안전하지 않기 때문에 RPA 설치후 해당 경로는 제외에서 제거하세요.
 
-
-
 5. **제외 > 파일 선택**
 
 ![](<../.gitbook/assets/image (19).png>)
@@ -59,12 +51,6 @@ RPA같은 자동화 도구는 백신에서 바이러스로 오진하는 경우�
 
 * **C:\kskyj\_RPA.exe**
 * C:\Genie\_RPA.exe
-
-
-
-
-
-
 
 ### 앱 및 브라우저 컨트롤 예외
 
@@ -85,15 +71,10 @@ RPA같은 자동화 도구는 백신에서 바이러스로 오진하는 경우�
 
 <figure><img src="../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
 
-
-
 5. kskyj\_RPA.exe, Genie\_RPA.exe 입력 후 추가
 
-<figure><img src="../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 6. 모든 항목 시스템 설정 재정의 클릭 및 끔 선택 > 적
 
 <figure><img src="../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
-

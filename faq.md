@@ -1,4 +1,4 @@
-# ❓ \[필독]자주하는 질문(FAQ)
+# \[필독]자주하는 질문(FAQ)
 
 ## 처음 설치했습니다. 무엇을 해야하나요?
 
@@ -28,6 +28,15 @@
 [detail.md](detail.md)
 {% endcontent-ref %}
 
+## 메리츠증권  HTS실행이  안되고ScformMngr.dll 을 Load할수 없다고 나옵니다.
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+설정 > 일반 / 화면 > 모든 RPA > HTS 실행방식변경\
+을 `체크`하고 저장후 닫기 하고 다시 시도하세요
+{% endhint %}
+
 ## 키움증권에서 SOXL주문시 ERROR\_CODE(14) 주문검증 실패가 발생합니다.
 
 {% hint style="info" %}
@@ -39,7 +48,9 @@
 ## 주문시 ERROR\_CODE(14) 주문검증 실패가 발생합니다.
 
 {% hint style="info" %}
-계속 발생 하는 경우 설정 > 일반/화면 > 동작 대기 딜레이 값을 0.3 정도 증가시키세요.
+[https://fragilememor.gitbook.io/genie-rpa/issue\_solved/solved4](https://fragilememor.gitbook.io/genie-rpa/issue_solved/solved4) 참고하여 전원설정 고성능으로 변경하세요.
+
+그래도계속 발생 하는 경우 설정 > 일반/화면 > 동작 대기 딜레이 값을 0.3 정도 증가시키세요.
 {% endhint %}
 
 ## 주문 불가능한 날입니다, 매도 수량이 없습니다. 투자동의 하십시오 등의 메시지가 나오며, 잔고 가져오기, 매매가 되지 않습니다.

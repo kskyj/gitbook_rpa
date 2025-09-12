@@ -1,4 +1,4 @@
-# 💰 실현손익 보기
+# 실현손익 보기
 
 {% hint style="success" %}
 * 실현손익은 HTS에서 조회한 데이터(기본값 최근  1년) 기준으로 제공합니다
@@ -42,7 +42,7 @@
 
 ### 실현손익 알림
 
-<figure><img src="../.gitbook/assets/image (2).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (3).png" alt="" width="563"><figcaption></figcaption></figure>
 
