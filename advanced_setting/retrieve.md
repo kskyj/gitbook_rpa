@@ -18,7 +18,7 @@ icon: magnifying-glass
 4. 지니RPA\_조회시간 변경
 5. 예약된 시작시간을 놓친 경우 가능한 대로 빨리 작업 시작 체크 해제
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 조회모드 시간이 지나고 실행되면 실제 매매가 될 수 있으므로, \[예약된 시작 시간을 놓친 경우 가능한 대로 빨리 작업 시작] 은 체크 해제 하세요.

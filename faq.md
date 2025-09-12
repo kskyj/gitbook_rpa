@@ -30,7 +30,7 @@
 
 ## 메리츠증권  HTS실행이  안되고ScformMngr.dll 을 Load할수 없다고 나옵니다.
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 설정 > 일반 / 화면 > 모든 RPA > HTS 실행방식변경\
