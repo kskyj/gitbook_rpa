@@ -5,15 +5,46 @@
 * 매매상세 보고서는 카톡(메일), 텔레그램에 제공합니다
 {% endhint %}
 
+### 매매상세분석 보고서
+
+* 제공방법
+  * 주문확인 팝업(간단 표시)
+  * 카카오톡(간단 표시)
+  * 메일(상세 표시)
+  * 텔레그램(상세 표시)
+* 제공내역
+  * 매매 요청건에 대한 미체결/체결내역 조회를 통한 분석
+  * 미체결/체결 내역 제공
+  * 매매현황판 제공
+  * 신규 종목 조회
+  * 실현손익 상세 보고서
+  * 월간 실현손익 상세 보고서
+
+<figure><img src="../.gitbook/assets/image (6).png" alt="" width="353"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (7).png" alt="" width="372"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (8).png" alt="" width="475"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (4).png" alt="" width="375"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (9).png" alt="" width="440"><figcaption></figcaption></figure>
+
 ### 주문내역 팝업
 
-<figure><img src="../.gitbook/assets/image (110).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 * 종목 가져오기, 매매가 완료 되면 프로그램에 주문내역 알림이 자동으로생성됩니다
 
 <figure><img src="../.gitbook/assets/image (111).png" alt=""><figcaption></figcaption></figure>
 
 * 주문 확인 클릭시 주문내역 알림을 확인 할 수 있습니다.
+
+
+
+
 
 ### 메일(카카오톡) 주문내역 및 매매상세보고서 알림
 
@@ -32,6 +63,10 @@
 {% endcontent-ref %}
 
 * 카카오톡 알림은 위의 가이드대로 메일 및 카카오톡 설정을 하면 자동으로 진행됩니다
+
+
+
+
 
 ### 텔레그램 주문내역 및 매매상세보고서 알림
 

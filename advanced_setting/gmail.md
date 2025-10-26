@@ -37,7 +37,7 @@ icon: circle-envelope
 
 6\. 설정 > 스마트비서 > 보내는메일 계정 수동 선택
 
-![](<../.gitbook/assets/image (10).png>)
+![](<../.gitbook/assets/image (10) (1).png>)
 
 
 

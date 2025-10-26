@@ -30,7 +30,7 @@
 
 ## 메리츠증권  HTS실행이  안되고ScformMngr.dll 을 Load할수 없다고 나옵니다.
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 설정 > 일반 / 화면 > 모든 RPA > HTS 실행방식변경\
@@ -82,7 +82,7 @@
 
 ## 윈도우 사용자 계정 컨트롤 때문에 자동으로 넘어가지 않습니다.
 
-![](<.gitbook/assets/image (7) (1) (1).png>)
+![](<.gitbook/assets/image (7) (1) (1) (1).png>)
 
 {% hint style="info" %}
 [https://fragilememor.gitbook.io/genie-rpa/issue\_solved/uac](https://fragilememor.gitbook.io/genie-rpa/issue_solved/uac)

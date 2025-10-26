@@ -51,7 +51,7 @@
 * 주문, 잔고설정
   * \[체크해제] 주문버튼 Enter키/Space키 주문 사용안함
 
-<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### **3. 보안설정으로 이동후 계좌 비밀번호 입력후 아래 설정후 확인**
 

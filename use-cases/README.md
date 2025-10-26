@@ -11,3 +11,7 @@
 {% content-ref url="profit-report.md" %}
 [profit-report.md](profit-report.md)
 {% endcontent-ref %}
+
+{% content-ref url="undefined.md" %}
+[undefined.md](undefined.md)
+{% endcontent-ref %}
