@@ -12,6 +12,6 @@
 [profit-report.md](profit-report.md)
 {% endcontent-ref %}
 
-{% content-ref url="undefined.md" %}
-[undefined.md](undefined.md)
+{% content-ref url="setting-rate.md" %}
+[setting-rate.md](setting-rate.md)
 {% endcontent-ref %}
