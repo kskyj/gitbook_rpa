@@ -4,6 +4,24 @@ hidden: true
 
 # 📃 릴리즈 노트
 
+## \[v3.4.2] 2025-11-23
+
+[https://blog.naver.com/fragilememor/224054303573](https://blog.naver.com/fragilememor/224054303573)
+
+#### **기능개선 / 버그수정**
+
+* (메리츠)실현손익 UI변경 내용 처리
+
+
+## \[v3.4.1] 2025-11-03
+
+[https://blog.naver.com/fragilememor/224054303573](https://blog.naver.com/fragilememor/224054303573)
+
+#### **기능개선 / 버그수정**
+
+* (메리츠)주간거래창 종료 못하는 현상 수정
+
+
 ## \[v3.4] 2025-10-26
 
 [https://blog.naver.com/fragilememor/224054303573](https://blog.naver.com/fragilememor/224054303573)
