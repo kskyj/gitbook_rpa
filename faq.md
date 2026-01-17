@@ -28,12 +28,12 @@
 [detail.md](detail.md)
 {% endcontent-ref %}
 
-## 메리츠증권  HTS실행이  안되고ScformMngr.dll 을 Load할수 없다고 나옵니다.
+## 메리츠증권 HTS실행이 안되고ScformMngr.dll 을 Load할수 없다고 나옵니다.
 
-<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (10) (2).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-설정 > 일반 / 화면 > 모든 RPA > HTS 실행방식변경\
+설정 > 일반 / 화면 > 모든 RPA > HTS 실행방식변경\
 을 `체크`하고 저장후 닫기 하고 다시 시도하세요
 {% endhint %}
 
@@ -112,7 +112,7 @@
 
 ## **매수중단은 어떻게하나요?**
 
-![](<.gitbook/assets/image (96).png>)
+![](<.gitbook/assets/image (95) (1).png>)
 
 {% hint style="info" %}
 매수 중단은 종목가져오기/자동계산 실행시 진행률에 따라 100%가 넘는경우 자동으로 체크되고 100% 미만인경우 자동으로 해제 됩니다. 즉 자동으로 관리되며, 수동으로 하려면 일시적으로 종목가져오기/자동계산후 매매를 시작하기 전에 수동으로 체크한다면 매수시 체크상태에 따라 매수를 수행합니다. 계속 수동으로 관리하려면 설정 > 스마트비서 > 진행률에 따라 매수중단 자동관리 체크를 해제하면 수동으로 관리되며 체크내역이 저장됩니다. 단 진행률 100%가 넘어가도 매수를 중단하지 않습니다.

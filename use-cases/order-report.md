@@ -42,10 +42,6 @@
 
 * 주문 확인 클릭시 주문내역 알림을 확인 할 수 있습니다.
 
-
-
-
-
 ### 메일(카카오톡) 주문내역 및 매매상세보고서 알림
 
 {% hint style="info" %}
@@ -56,17 +52,13 @@
 
 * 메일에서 매매 상세메일에서 매매상세 내용 확인이 가능합니다
 
-<figure><img src="../.gitbook/assets/image (114).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (112).png" alt="" width="375"><figcaption></figcaption></figure>
 
 {% content-ref url="../advanced_setting/kakao.md" %}
 [kakao.md](../advanced_setting/kakao.md)
 {% endcontent-ref %}
 
 * 카카오톡 알림은 위의 가이드대로 메일 및 카카오톡 설정을 하면 자동으로 진행됩니다
-
-
-
-
 
 ### 텔레그램 주문내역 및 매매상세보고서 알림
 

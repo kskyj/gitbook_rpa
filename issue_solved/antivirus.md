@@ -72,9 +72,6 @@ RPA같은 자동화 도구는 백신에서 바이러스로 오진하는 경우�
 <figure><img src="../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
 
 5. kskyj\_RPA.exe, Genie\_RPA.exe 입력 후 추가
-
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
-
 6. 모든 항목 시스템 설정 재정의 클릭 및 끔 선택 > 적
 
 <figure><img src="../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
