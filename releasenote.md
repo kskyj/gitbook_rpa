@@ -4,6 +4,14 @@ hidden: true
 
 # 📃 릴리즈 노트
 
+## \[v3.4.3] 2025-12-04
+
+[https://blog.naver.com/fragilememor/224054303573](https://blog.naver.com/fragilememor/224054303573)
+
+#### **기능개선 / 버그수정**
+
+* (메리츠)실현손익 UI 위치 추가 변경 내용 처리
+
 ## \[v3.4.2] 2025-11-23
 
 [https://blog.naver.com/fragilememor/224054303573](https://blog.naver.com/fragilememor/224054303573)
