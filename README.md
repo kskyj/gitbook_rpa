@@ -1,12 +1,10 @@
-# 해외주식 스마트 RPA \[지니RPA] 
+# 해외주식 스마트 RPA \[지니RPA] 소개
 
-이 프로그램은 사용자가 결정하고 원하는 대로 설정한 매매정보를
-직접 계산하고 HTS에 입력하는것을 프로그램이 HTS를 대신 실행 및 입력 해주는 RPA일 뿐 특정 매매방법을 추천하거나, 특정 종목을 추천하지 않고, 투자관련 어떠한 판단도 없으며, 수익을 보장해주지 않습니다.
+이 프로그램은 사용자가 결정하고 원하는 대로 설정한 매매정보를 직접 계산하고 HTS에 입력하는것을 프로그램이 HTS를 대신 실행 및 입력 해주는 RPA일 뿐 특정 매매방법을 추천하거나, 특정 종목을 추천하지 않고, 투자관련 어떠한 판단도 없으며, 수익을 보장해주지 않습니다.
 
 사용자가 프로그램내에서 직접 매매종목, 투자금액, 수량, 동작시기를 결정하고 실행하는 형태로 동작합니다.
 
 이 프로그램을을 통한 투자여부에 대한 모든 판단 및 결정은 프로그램 사용자 스스로 하시면 되며, 결과에 대한 책임 또한 사용자 본인에게 있습니다.
-
 
 현재 지원하는 증권사는 아래와 같습니다.
 
@@ -35,7 +33,7 @@
 > * **영웅문 글로벌(HTS) 간편인증/공동인증서 관계 없이 스마트 로그인**
 > * **사용자가 설정한대로 반복 실행**
 
-> **매매 데이터 계산과 매매로 시간을 단축시켜주며, 주문 실수를 최대한 방지해 줍니다.**
+> **사람대신 매매 데이터 계산과 매매로 시간을 단축시켜주며, 주문 실수를 최대한 방지해 줍니다.**
 >
 > **매매 외에도 스마트 비서 기능으로 투자금, 예수금 관리, 신규종목 검색, 투자 대비 수익률, 원화주문 설정등을 관리 해줍니다.**
 >
@@ -45,8 +43,4 @@
 프로그램 다운로드
 
 [https://github.com/kskyj/RPA\_AutoUpdate/releases/download/latest\_Genie\_RPA/Genie\_RPA\_Setup.exe](https://github.com/kskyj/RPA_AutoUpdate/releases/download/latest_Genie_RPA/Genie_RPA_Setup.exe)
-
-키움증권 전용 구버젼(2.x)
-
-[https://github.com/kskyj/RPA\_AutoUpdate/releases/download/latest/kskyj\_RPA\_Setup.exe](https://github.com/kskyj/RPA_AutoUpdate/releases/download/latest/kskyj_RPA_Setup.exe)
 {% endhint %}
